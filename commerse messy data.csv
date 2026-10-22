@@ -1,0 +1,1001 @@
+Order_ID,Customer_ID,Customer_Name,Gender,Age,Region,City,Order_Date,Product_Category,Product_Name,Quantity,Unit_Price,Discount,Revenue,Payment_Method,Delivery_Status,Customer_Rating,Marketing_Channel
+ORD1000,,Priya Patel ,F,0,North,Delhi,2025-03-13,Electronic,Laptop,5,"1,499",15,0,upi,delivered,5,
+ORD1001,C151,Riya Shah,Male,31,East,Lucknow,04/23/25,Electronics,Headphones,4,7999,-5,2500,upi,delivered,3,Instagram
+ORD1002,C207,Rahul Sharma,FEMALE,150,west, Mumbai,"Nov 06,2025",Electronic,Smartphone,2,2500,120,5000,UPI,Cancelled,3,
+ORD1003,C021,Neha Gupta,Male,0,South,,"Jan 31,2026",Beauty,Face Wash,2,₹999,15,-500,Card,delivered,3,Google Ads
+ORD1004,C042,Vikram Das,Female,60,west,Pune,01-10-2025,Fashion,Jeans,5,₹999,10,-500,Card,Delivered,2,Instagram
+ORD1005,C055,Vikram Das,Female,150,NORTH,Jaipur,"Apr 13,2026",Beauty,Perfume,5,₹999,15,999,upi,Cancelled,5,Google Ads
+ORD1006,C024,Rahul Sharma,Male,31,NORTH,Bhopal,09/18/25,Home,Mixer,0,"1,499",10,12000,UPI,Returned,4,
+ORD1007,C197,Karan Mehta,Male,60,East,Ahmedabad ,"Dec 16,2025",Sports,Cricket Bat,50,₹999,5,5000,UPI,DELIVERED,5,Facebook
+ORD1008,C196,Amit Singh,F,,North,Lucknow,"Mar 20,2025",Groceries,Rice,5,7999,15,5000,UPI,Delivered,3,Google Ads
+ORD1009,C209,Priya Patel ,F,31,NORTH,,02/13/25,Fashion,T-Shirt,4,7999,5,12000,upi,DELIVERED,5,
+ORD1010,C113,Vikram Das,Male,45,Nrth, Mumbai,"Jul 24,2025",Home,Chair,50,"1,499",20%,2500,UPI,Cancelled,5,Facebook
+ORD1011,C221,Karan Mehta,Male,,Nrth,Jaipur,2025-02-04,Fashion,T-Shirt,2,₹999,15,-500,Cash,delivered,5,Facebook
+ORD1012,C169,Sneha Joshi,M,0,East,,2025-02-18,Sports,Football,10,4500 INR,15,30000,UPI,Delivered,1,Email
+ORD1013,C036,Sneha Joshi,male,60,West,Pune,10/02/25,Beauty,Face Wash,4,"1,499",15,30000,UPI,Returned,5,Instagram
+ORD1014,C043,Sneha Joshi,Female,150,Nrth,Bhopal,20-04-2026,Electronics,Headphones,50,₹999,5,0,upi,Returned,1,Email
+ORD1015,C076,Neha Gupta,Male,,North,Lucknow,21-03-2025,Fashon,Shoes,5,4500 INR,,0,UPI,Cancelled,4,
+ORD1016,C018,Priya Patel,FEMALE,45,East, Mumbai,12-03-2026,Groceries,Rice,1,7999,5,12000,upi,Cancelled,5,Instagram
+ORD1017,C062,Riya Shah,Female,31,South,,"Apr 15,2025",Electronic,Smartphone,50,2500,20%,2500,UPI,Delivered,4,
+ORD1018,C226,Priya Patel ,male,-4,South,Ahmedabad ,"Mar 09,2025",Electronic,Laptop,50,"1,499",20%,5000,Wallet,DELIVERED,5,
+ORD1019,C068,Priya Patel,Male,,NORTH,Jaipur,26-04-2026,Electronics,Headphones,50,2500,5,2500,Wallet,delivered,,Google Ads
+ORD1020,C024,Sneha Joshi,M,21,North,Lucknow,2025-05-09,Fashion,Jeans,5,7999,,30000,upi,DELIVERED,2,Email
+ORD1021,C140,Rahul Sharma,M,,NORTH,Bhopal,08-02-2025,Groceries,Cooking Oil,50,₹999,5,999,UPI,DELIVERED,3,Instagram
+ORD1022,C250,Amit Singh,male,31,NORTH,Bhopal,02/04/26,Beauty,Face Wash,4,₹999,120,0,upi,DELIVERED,4,Facebook
+ORD1023,C057,Neha Gupta,Female,-4,South,Pune,03/16/26,Fashon,T-Shirt,2,4500 INR,0,999,UPI,delivered,4,Google Ads
+ORD1024,C241,Rahul Sharma,Male,60,NORTH,Jaipur,"Dec 14,2025",Fashon,T-Shirt,5,2500,-5,0,UPI,Cancelled,4,Google Ads
+ORD1025,C066,Rahul Sharma,FEMALE,0,North,Pune,06-04-2026,Beauty,Perfume,50,₹999,-5,2500,Cash,Delivered,,Google Ads
+ORD1026,C084,Sneha Joshi,FEMALE,60,west,Ahmedabad ,12/08/25,Beauty,Face Wash,5,7999,20%,999,Cash,Returned,,Facebook
+ORD1027,C111,Karan Mehta ,Female,150,West,Pune,27-05-2025,Fashon,Shoes,50,₹999,20%,12000,Cash,delivered,,Instagram
+ORD1028,C058,Neha Gupta,male,21,North,Pune,"Dec 11,2025",Fashon,Jeans,0,₹999,15,5000,Wallet,Delivered,4,Email
+ORD1029,C168,Rahul Sharma,Male,0,Nrth,Ahmedabad ,05-05-2025,Fashion,Jeans,-1,4500 INR,-5,30000,Wallet,Returned,1,
+ORD1030,C244,Vikram Das,F,,East,,"Dec 08,2025",Fashion,T-Shirt,10,"1,499",,999,Cash,Returned,3,Facebook
+ORD1031,C183,Riya Shah,male,60,south,Lucknow,2025-08-14,Fashon,Jeans,10,"1,499",20%,12000,UPI,delivered,2,Facebook
+ORD1032,C139,Vikram Das,Female,21,Nrth,Bhopal,"Jul 28,2025",Home,Chair,4,₹999,-5,5000,Wallet,Delivered,5,Email
+ORD1033,C138,Neha Gupta,Female,45,South,Bhopal,03/13/26,Sports,Football,0,2500,-5,5000,UPI,Returned,3,Email
+ORD1034,C152,Rahul Sharma,Male,0,NORTH,,04/10/26,Electrnics,Smartphone,3,7999,0,999,UPI,DELIVERED,4,Google Ads
+ORD1035,C065,Priya Patel,Female,21,west,Delhi,05/23/25,Fashion,Shoes,0,2500,-5,2500,upi,Delivered,,Instagram
+ORD1036,C122,Priya Patel ,F,45,West,Jaipur,03-05-2025,Electronics,Laptop,4,₹999,10,30000,Card,delivered,5,
+ORD1037,C148,Sneha Joshi,Female,45,north,Pune,"Apr 21,2026",Electronic,Laptop,5,₹999,0,0,Card,Cancelled,1,
+ORD1038,C004,Sneha Joshi,Female,25,East,Lucknow,"Feb 05,2025",Electronics,Smartphone,50,4500 INR,120,-500,Cash,delivered,4,Facebook
+ORD1039,C083,Neha Gupta,Male,60,West,Pune,"Aug 12,2025",Groceries,Cooking Oil,50,4500 INR,,30000,Cash,Cancelled,5,Email
+ORD1040,C091,Riya Shah,M,60,South,Delhi,07-09-2025,Beauty,Face Wash,10,2500,10,12000,upi,Delivered,2,Email
+ORD1041,C024,Riya Shah,male,0,Nrth,Jaipur,2026-02-10,Sports,Football,10,4500 INR,,-500,Wallet,DELIVERED,4,
+ORD1042,C070,Riya Shah,M,45,north,Pune,06/30/25,Groceries,Cooking Oil,-1,7999,120,2500,UPI,Cancelled,,Facebook
+ORD1043,C076,Neha Gupta,M,31,South,Delhi,21-02-2025,Fashion,T-Shirt,10,2500,20%,-500,Wallet,delivered,3,Instagram
+ORD1044,C147,Riya Shah,Female,150,West,Lucknow,2025-02-22,Electronics,Headphones,5,"1,499",,999,UPI,DELIVERED,4,Instagram
+ORD1045,C208,Riya Shah ,Male,45,north,Bhopal,19-03-2025,Electronic,Smartphone,10,₹999,0,12000,Wallet,Cancelled,2,
+ORD1046,C157,Priya Patel,male,45,South, Mumbai,2025-06-06,Home,Mixer,10,2500,-5,999,upi,delivered,5,Instagram
+ORD1047,C060,Riya Shah,FEMALE,60,West, Mumbai,2025-05-30,Electrnics,Laptop,-1,4500 INR,,-500,upi,DELIVERED,,
+ORD1048,C233,Riya Shah,male,25,North,Ahmedabad ,28-11-2025,Fashion,Shoes,2,7999,15,30000,Card,Cancelled,,
+ORD1049,C242,Riya Shah,F,,West,,12/25/25,Fashon,Shoes,2,4500 INR,20%,0,Wallet,Delivered,4,Google Ads
+ORD1049,C148,Rahul Sharma,male,150,west,,"Jan 27,2026",Fashon,T-Shirt,2,"1,499",0,2500,upi,Cancelled,4,Email
+ORD1051,C220,Amit Singh,M,0,West,Jaipur,2025-06-14,Electronic,Smartphone,0,4500 INR,120,-500,Cash,Cancelled,1,Email
+ORD1052,C222,Rahul Sharma,FEMALE,,West,Bhopal,05/12/26,Electronic,Smartphone,5,2500,5,0,upi,Cancelled,3,
+ORD1053,C238,Riya Shah,Female,150,north,Delhi,09-10-2025,Sports,Cricket Bat,1,"1,499",20%,-500,Wallet,delivered,,Facebook
+ORD1054,C216,Priya Patel ,Female,25,NORTH,,17-02-2025,Fashon,Jeans,1,7999,-5,-500,Card,Cancelled,,Google Ads
+ORD1055,C099,Neha Gupta,F,,NORTH, Mumbai,10-10-2025,Home,Mixer,10,"1,499",,2500,Cash,DELIVERED,5,Google Ads
+ORD1056,C115,Vikram Das,M,-4,west,Bhopal,20-03-2026,Electronics,Smartphone,5,7999,,5000,Card,delivered,,Facebook
+ORD1057,C181,Sneha Joshi,Female,31,West,Delhi,01/17/26,Home,Chair,-1,₹999,120,999,Wallet,Cancelled,3,Instagram
+ORD1058,C105,Amit Singh,Male,150,South,Lucknow,05-01-2026,Sports,Football,50,4500 INR,0,12000,Cash,Delivered,3,
+ORD1059,C061,Riya Shah,male,25,East, Mumbai,2025-11-13,Home,Mixer,10,7999,0,30000,UPI,Returned,2,Google Ads
+ORD1060,C111,Amit Singh,male,,East,Ahmedabad ,"Jul 03,2025",Electronics,Laptop,0,₹999,20%,999,upi,Delivered,5,Email
+ORD1061,C118,Riya Shah,FEMALE,21,West,Jaipur,"Nov 23,2025",Fashion,Shoes,3,"1,499",,-500,Wallet,delivered,1,Email
+ORD1062,C051,Sneha Joshi,Female,25,Nrth,Bhopal,"Mar 09,2026",Beauty,Perfume,-1,2500,,12000,Card,Cancelled,3,Google Ads
+ORD1063,C234,Vikram Das ,M,45,south,Pune,2025-10-17,Electronics,Headphones,-1,2500,0,-500,upi,Cancelled,3,Facebook
+ORD1064,C188,Amit Singh,Male,60,south,Bhopal,"Jan 18,2025",Electronic,Headphones,1,2500,,999,upi,delivered,5,Google Ads
+ORD1065,C192,Karan Mehta,Male,150,north,Ahmedabad ,"May 11,2026",Groceries,Cooking Oil,3,2500,,30000,upi,Returned,5,Google Ads
+ORD1066,C173,Riya Shah,F,0,south, Mumbai,"Aug 21,2025",Electronic,Smartphone,1,2500,5,-500,upi,Returned,1,
+ORD1067,C167,Sneha Joshi,Male,31,North,Delhi,"Apr 11,2026",Groceries,Cooking Oil,4,₹999,,2500,Cash,Delivered,1,Facebook
+ORD1068,C151,Amit Singh,Female,25,West,Bhopal,12/10/25,Groceries,Rice,-1,4500 INR,120,2500,UPI,DELIVERED,2,Email
+ORD1069,C016,Sneha Joshi,M,45,north,,"Oct 06,2025",Sports,Football,0,₹999,120,0,upi,Cancelled,1,Instagram
+ORD1070,C151,Neha Gupta,male,-4,NORTH,Delhi,05-02-2025,Beauty,Face Wash,3,7999,15,2500,upi,delivered,5,Google Ads
+ORD1071,C151,Karan Mehta,Male,31,South,Delhi,03-07-2025,Electrnics,Laptop,1,"1,499",0,999,Cash,Cancelled,1,Instagram
+ORD1072,C243,Rahul Sharma ,FEMALE,,South,,20-08-2025,Sports,Cricket Bat,0,7999,5,-500,UPI,Delivered,4,Email
+ORD1073,,Karan Mehta,F,31,north,Ahmedabad ,2026-04-06,Home,Chair,10,4500 INR,5,2500,Wallet,Cancelled,5,Google Ads
+ORD1074,C219,Neha Gupta,Female,150,Nrth,Bhopal,2025-02-20,Home,Mixer,10,7999,-5,2500,Cash,Returned,4,Instagram
+ORD1075,C176,Vikram Das,Male,25,north, Mumbai,04-05-2026,Beauty,Perfume,0,2500,120,5000,UPI,DELIVERED,2,
+ORD1076,C106,Karan Mehta,FEMALE,0,North,Jaipur,2025-12-10,Electronics,Headphones,50,7999,120,12000,Card,DELIVERED,1,
+ORD1077,C090,Karan Mehta,Male,60,Nrth,Bhopal,2026-03-10,Groceries,Rice,3,4500 INR,15,30000,Wallet,Cancelled,5,
+ORD1078,C236,Karan Mehta,M,21,NORTH,Ahmedabad ,"May 20,2025",Electronics,Headphones,5,₹999,10,12000,Cash,Delivered,2,Instagram
+ORD1079,C088,Amit Singh,M,60,south, Mumbai,08/03/25,Electronic,Headphones,50,"1,499",-5,0,upi,delivered,5,Instagram
+ORD1080,C107,Riya Shah,male,,north,Lucknow,11/07/25,Electronic,Smartphone,10,4500 INR,,5000,UPI,DELIVERED,,
+ORD1081,C002,Neha Gupta ,M,45,NORTH,Jaipur,2025-11-03,Sports,Cricket Bat,1,"1,499",-5,2500,Card,Delivered,1,Email
+ORD1082,C019,Sneha Joshi,FEMALE,21,East,Delhi,"Sep 14,2025",Home,Chair,3,4500 INR,15,5000,UPI,DELIVERED,5,Email
+ORD1083,C044,Vikram Das,FEMALE,-4,north,Bhopal,"Jan 11,2025",Home,Mixer,5,₹999,-5,30000,UPI,delivered,4,
+ORD1084,C200,Amit Singh,Male,,north,Pune,"Apr 24,2025",Home,Chair,-1,2500,120,30000,Card,DELIVERED,,Facebook
+ORD1085,C195,Priya Patel,male,150,West,,30-03-2025,Fashion,T-Shirt,3,2500,15,-500,Wallet,Cancelled,3,Google Ads
+ORD1086,C204,Riya Shah,F,21,south, Mumbai,"Nov 20,2025",Electrnics,Smartphone,2,4500 INR,,2500,Cash,Returned,1,Instagram
+ORD1087,C116,Neha Gupta,M,150,west,Ahmedabad ,2025-08-25,Beauty,Perfume,2,₹999,-5,0,Cash,Delivered,3,Instagram
+ORD1088,C094,Karan Mehta,M,0,East,Lucknow,13-08-2025,Groceries,Rice,1,"1,499",,-500,Wallet,Delivered,,Google Ads
+ORD1089,C186,Amit Singh,M,25,NORTH,Lucknow,"May 26,2025",Electronic,Smartphone,2,7999,-5,2500,Cash,delivered,5,Instagram
+ORD1090,C166,Sneha Joshi ,F,-4,North,Lucknow,2025-12-10,Fashon,Jeans,-1,2500,10,2500,upi,delivered,3,Email
+ORD1091,C130,Rahul Sharma,FEMALE,-4,NORTH,Bhopal,2025-06-01,Fashion,T-Shirt,3,"1,499",5,999,upi,delivered,,
+ORD1092,C249,Vikram Das,F,60,West,Pune,06-07-2025,Electrnics,Headphones,10,₹999,-5,12000,upi,DELIVERED,4,Facebook
+ORD1093,C248,Amit Singh,male,31,South,Delhi,09/15/25,Beauty,Perfume,10,2500,-5,-500,Cash,DELIVERED,5,Instagram
+ORD1094,C232,Amit Singh,Female,25,Nrth,,05/20/25,Groceries,Rice,5,₹999,10,2500,UPI,Returned,1,Email
+ORD1095,C008,Karan Mehta,Male,-4,NORTH,Ahmedabad ,11-07-2025,Groceries,Cooking Oil,4,4500 INR,5,0,Card,Returned,,Facebook
+ORD1096,C214,Amit Singh,F,,East, Mumbai,12-05-2025,Sports,Cricket Bat,1,₹999,0,30000,Card,delivered,3,Instagram
+ORD1097,C215,Vikram Das,F,,North,Pune,2025-02-02,Electronics,Laptop,-1,7999,,-500,upi,DELIVERED,4,Instagram
+ORD1098,C018,Rahul Sharma,Female,150,North,Bhopal,"Sep 26,2025",Beauty,Face Wash,-1,"1,499",5,2500,Card,Delivered,3,Instagram
+ORD1099,C091,Karan Mehta ,FEMALE,31,West,,2025-03-10,Beauty,Face Wash,2,7999,120,-500,upi,delivered,1,Email
+ORD1100,C081,Riya Shah,F,0,west,,2026-03-30,Electronics,Smartphone,4,₹999,15,2500,UPI,delivered,3,Google Ads
+ORD1101,C112,Sneha Joshi,FEMALE,150,East,Lucknow,"Feb 14,2026",Electronics,Headphones,0,2500,5,999,Cash,Returned,3,
+ORD1102,C140,Riya Shah,M,25,north,Lucknow,05-11-2025,Fashon,T-Shirt,-1,₹999,-5,-500,Card,DELIVERED,4,
+ORD1103,C158,Sneha Joshi,M,21,north,Bhopal,"Jan 22,2025",Home,Chair,10,2500,,2500,Wallet,delivered,1,Facebook
+ORD1104,C093,Sneha Joshi,F,21,NORTH,,"Feb 03,2026",Sports,Football,3,₹999,15,2500,Card,Returned,1,
+ORD1105,C064,Priya Patel,Male,31,West,Bhopal,"Nov 29,2025",Electrnics,Headphones,0,4500 INR,120,12000,UPI,DELIVERED,3,Email
+ORD1106,C219,Priya Patel,Female,31,West, Mumbai,04-03-2025,Fashion,Jeans,5,4500 INR,15,30000,Card,DELIVERED,,Instagram
+ORD1107,C131,Neha Gupta,Male,45,NORTH,Pune,"Feb 11,2026",Groceries,Cooking Oil,5,"1,499",10,30000,Cash,Delivered,3,
+ORD1108,C102,Vikram Das ,F,0,East, Mumbai,"Feb 03,2025",Beauty,Perfume,50,"1,499",5,999,Card,Delivered,4,Email
+ORD1109,C111,Rahul Sharma,Male,,NORTH,Jaipur,29-01-2026,Groceries,Cooking Oil,3,7999,10,999,upi,DELIVERED,,Facebook
+ORD1110,C033,Riya Shah,F,,north,Ahmedabad ,"Nov 22,2025",Beauty,Perfume,2,2500,15,12000,Wallet,delivered,2,
+ORD1111,C167,Neha Gupta,F,0,North,,"May 01,2026",Beauty,Face Wash,1,₹999,0,-500,Wallet,DELIVERED,,Google Ads
+ORD1112,C041,Vikram Das,Female,150,West,Pune,2025-02-07,Sports,Football,-1,2500,,2500,Wallet,delivered,3,Google Ads
+ORD1113,C120,Priya Patel,M,150,Nrth,Ahmedabad ,13-06-2025,Beauty,Perfume,3,2500,5,0,UPI,DELIVERED,4,
+ORD1114,C128,Vikram Das,Female,60,West,Delhi,08-04-2025,Home,Chair,3,2500,120,0,Cash,Cancelled,4,Facebook
+ORD1115,C153,Vikram Das,M,,North, Mumbai,05/25/25,Fashion,Jeans,0,₹999,0,5000,upi,DELIVERED,,Google Ads
+ORD1116,C093,Riya Shah,Male,0,west,,19-10-2025,Home,Mixer,1,4500 INR,0,30000,Wallet,DELIVERED,5,
+ORD1117,C143,Karan Mehta ,male,45,west,Bhopal,"Feb 11,2026",Electronic,Laptop,2,4500 INR,120,12000,UPI,Delivered,1,Facebook
+ORD1118,C084,Karan Mehta,male,0,South,Lucknow,07-11-2025,Beauty,Perfume,50,4500 INR,10,12000,Wallet,Cancelled,4,
+ORD1119,C107,Riya Shah,FEMALE,21,West,Jaipur,2025-12-11,Fashon,Shoes,1,2500,120,-500,Wallet,Cancelled,2,Instagram
+ORD1120,C009,Priya Patel,male,21,West,Lucknow,17-03-2025,Sports,Football,50,7999,-5,5000,upi,Returned,,Facebook
+ORD1121,C170,Vikram Das,F,0,south,Ahmedabad ,"Oct 15,2025",Home,Mixer,1,"1,499",15,5000,Wallet,DELIVERED,5,Google Ads
+ORD1122,C058,Riya Shah,M,45,West,Lucknow,"May 23,2025",Fashon,Jeans,10,"1,499",15,5000,Card,Cancelled,,Google Ads
+ORD1123,C245,Amit Singh,M,21,South, Mumbai,"Feb 24,2026",Fashon,T-Shirt,50,4500 INR,-5,2500,Cash,DELIVERED,,Email
+ORD1124,C158,Neha Gupta,male,21,west,Pune,2025-03-12,Fashion,T-Shirt,50,2500,20%,-500,upi,Delivered,1,Email
+ORD1125,C105,Vikram Das,Female,45,South,Lucknow,09-05-2026,Beauty,Perfume,2,"1,499",0,2500,UPI,Delivered,,
+ORD1126,C240,Rahul Sharma ,Female,150,NORTH,Jaipur,28-03-2026,Fashion,Jeans,1,"1,499",-5,0,UPI,DELIVERED,5,
+ORD1127,C218,Vikram Das,M,45,north,Lucknow,01-04-2026,Electronic,Smartphone,5,4500 INR,,999,Cash,DELIVERED,,Facebook
+ORD1128,C212,Sneha Joshi,F,-4,north,Bhopal,03/31/25,Electronics,Headphones,0,2500,15,-500,UPI,delivered,2,Email
+ORD1129,C193,Riya Shah,M,60,North,Jaipur,05/01/25,Beauty,Face Wash,1,2500,-5,-500,Card,delivered,1,Instagram
+ORD1130,C164,Riya Shah,M,45,Nrth,Ahmedabad ,2025-12-20,Sports,Cricket Bat,3,4500 INR,20%,5000,upi,Returned,,
+ORD1131,C175,Priya Patel,F,150,west,Lucknow,26-01-2026,Beauty,Perfume,50,4500 INR,15,0,Wallet,Delivered,1,
+ORD1132,C030,Neha Gupta,FEMALE,150,north,,06/17/25,Groceries,Rice,50,"1,499",10,30000,UPI,Returned,2,
+ORD1133,C186,Rahul Sharma,Female,60,North,Pune,"Dec 11,2025",Home,Mixer,1,7999,,12000,UPI,Delivered,4,Google Ads
+ORD1134,C105,Amit Singh,male,0,south,Bhopal,"Jan 17,2025",Electronic,Headphones,1,₹999,,5000,Cash,Returned,1,
+ORD1135,C136,Amit Singh ,FEMALE,45,North,Delhi,10/03/25,Electrnics,Headphones,0,₹999,10,2500,Cash,Cancelled,4,
+ORD1136,C049,Priya Patel,Male,0,North,Pune,"Mar 21,2025",Home,Chair,4,4500 INR,120,999,UPI,Delivered,5,Instagram
+ORD1137,C139,Neha Gupta,Male,31,west,Jaipur,13-08-2025,Sports,Football,4,₹999,-5,999,Wallet,DELIVERED,5,
+ORD1138,C071,Rahul Sharma,F,31,East,,"Jul 31,2025",Beauty,Face Wash,5,"1,499",15,0,Card,Returned,5,Google Ads
+ORD1139,C062,Neha Gupta,M,31,West,Delhi,04/05/25,Home,Mixer,3,2500,-5,12000,Cash,Returned,5,
+ORD1140,C237,Vikram Das,M,25,west,Pune,2025-06-19,Electrnics,Smartphone,4,2500,15,0,Card,Returned,,
+ORD1141,C223,Karan Mehta,M,21,Nrth,Pune,03-09-2025,Electronics,Laptop,4,7999,15,-500,UPI,Returned,2,
+ORD1142,C098,Vikram Das,F,-4,South,Jaipur,"Feb 02,2026",Fashion,Shoes,4,7999,120,2500,Wallet,Returned,4,Instagram
+ORD1143,C145,Neha Gupta,FEMALE,31,North,Jaipur,2025-07-31,Sports,Cricket Bat,4,2500,120,12000,Wallet,Cancelled,,Email
+ORD1144,C128,Karan Mehta ,M,150,West,,14-07-2025,Fashon,T-Shirt,4,2500,15,999,Card,delivered,2,
+ORD1145,C242,Rahul Sharma,Male,0,NORTH,Pune,2026-03-06,Sports,Football,50,₹999,0,0,upi,Delivered,2,
+ORD1146,,Rahul Sharma,Male,,west,Bhopal,12/04/25,Sports,Cricket Bat,1,7999,,0,UPI,Cancelled,,Google Ads
+ORD1147,C028,Priya Patel,F,31,Nrth,Pune,17-02-2026,Groceries,Cooking Oil,1,7999,-5,12000,Wallet,DELIVERED,3,Google Ads
+ORD1148,C179,Neha Gupta,M,25,North, Mumbai,17-10-2025,Home,Chair,0,4500 INR,,5000,Cash,Returned,5,Email
+ORD1149,C166,Karan Mehta,F,25,west,Delhi,09/13/25,Electronics,Headphones,1,"1,499",5,999,upi,Cancelled,4,Google Ads
+ORD1150,C005,Neha Gupta,F,31,East, Mumbai,"Apr 02,2025",Electronics,Laptop,5,7999,0,2500,upi,Cancelled,2,
+ORD1151,C014,Priya Patel,Female,45,north,Lucknow,"Sep 14,2025",Home,Mixer,-1,"1,499",5,12000,Wallet,Cancelled,4,Google Ads
+ORD1152,C142,Sneha Joshi,Female,31,East, Mumbai,"Apr 27,2025",Electronics,Headphones,5,4500 INR,,30000,Wallet,DELIVERED,2,Instagram
+ORD1153,C082,Karan Mehta ,Male,25,North,Jaipur,01/14/26,Electronic,Smartphone,3,4500 INR,10,5000,Card,DELIVERED,1,Facebook
+ORD1154,C023,Karan Mehta,F,25,south,Bhopal,2025-02-22,Electronic,Laptop,-1,4500 INR,-5,0,Card,Returned,4,Instagram
+ORD1155,C069,Riya Shah,M,150,NORTH, Mumbai,28-03-2025,Groceries,Rice,50,"1,499",-5,999,Cash,DELIVERED,4,Google Ads
+ORD1156,C153,Neha Gupta,Female,25,NORTH,Jaipur,01/05/26,Sports,Football,0,2500,15,0,Cash,DELIVERED,5,Email
+ORD1157,C155,Neha Gupta,Female,-4,NORTH,Bhopal,"Jun 03,2025",Beauty,Perfume,0,4500 INR,10,2500,Card,Returned,5,Facebook
+ORD1158,C152,Amit Singh,FEMALE,,North,,28-02-2025,Beauty,Perfume,5,4500 INR,120,-500,upi,Returned,3,Instagram
+ORD1159,C184,Sneha Joshi,Female,25,West,,10-05-2025,Home,Mixer,3,2500,15,12000,Cash,Cancelled,5,Email
+ORD1160,C169,Karan Mehta,male,21,East,Lucknow,25-02-2025,Groceries,Rice,0,7999,5,30000,Cash,Delivered,1,Instagram
+ORD1161,C101,Vikram Das,FEMALE,,NORTH,Lucknow,"Aug 17,2025",Fashon,T-Shirt,50,7999,15,0,Cash,Delivered,3,Email
+ORD1162,C201,Neha Gupta ,F,150,south,,06/25/25,Electronic,Laptop,3,2500,20%,0,Cash,Returned,3,Instagram
+ORD1163,C174,Amit Singh,FEMALE,45,west,Ahmedabad ,2025-11-28,Fashon,T-Shirt,2,₹999,120,12000,upi,DELIVERED,5,Email
+ORD1164,C102,Rahul Sharma,FEMALE,45,West,Bhopal,11/24/25,Sports,Football,-1,"1,499",10,5000,UPI,delivered,2,Google Ads
+ORD1165,C051,Vikram Das,Male,60,West,Lucknow,"Jul 07,2025",Electronic,Headphones,2,7999,10,12000,Cash,Cancelled,4,
+ORD1166,C236,Priya Patel,FEMALE,31,south, Mumbai,"Feb 21,2026",Electronic,Smartphone,0,4500 INR,10,999,Card,Delivered,2,Google Ads
+ORD1167,C109,Amit Singh,Female,,NORTH,Ahmedabad ,10/22/25,Electrnics,Headphones,-1,4500 INR,10,5000,Card,delivered,2,Google Ads
+ORD1168,C209,Sneha Joshi,F,,West,Bhopal,11-03-2025,Sports,Football,0,₹999,,-500,Cash,Returned,,Email
+ORD1169,C075,Rahul Sharma,M,45,west,Jaipur,12-02-2026,Sports,Football,2,7999,0,999,Cash,Cancelled,,Email
+ORD1170,C195,Vikram Das,F,45,East, Mumbai,2025-10-05,Groceries,Rice,2,2500,120,-500,upi,DELIVERED,1,Email
+ORD1171,C054,Karan Mehta ,FEMALE,0,NORTH,Ahmedabad ,02-02-2026,Fashon,Shoes,2,4500 INR,5,30000,upi,delivered,1,
+ORD1172,C075,Riya Shah,F,25,NORTH,Bhopal,"Dec 27,2025",Beauty,Perfume,50,"1,499",120,0,Card,delivered,,Facebook
+ORD1173,C148,Riya Shah,FEMALE,0,East,,08-09-2025,Fashion,T-Shirt,0,"1,499",-5,0,UPI,Returned,5,Google Ads
+ORD1174,C188,Vikram Das,FEMALE,-4,north,Bhopal,2026-03-21,Beauty,Perfume,10,2500,0,999,Cash,delivered,4,Google Ads
+ORD1175,C202,Karan Mehta,FEMALE,21,North, Mumbai,10/17/25,Beauty,Perfume,0,7999,10,-500,Cash,Delivered,1,Facebook
+ORD1176,C226,Riya Shah,male,60,north,Lucknow,19-12-2025,Sports,Cricket Bat,1,4500 INR,15,2500,UPI,DELIVERED,,Facebook
+ORD1177,C181,Priya Patel,Male,45,West, Mumbai,2025-12-02,Electronics,Smartphone,5,"1,499",-5,999,Wallet,delivered,5,Email
+ORD1178,C123,Priya Patel,male,0,north, Mumbai,22-12-2025,Electronics,Laptop,0,₹999,-5,0,Card,DELIVERED,3,Facebook
+ORD1179,C113,Karan Mehta,FEMALE,45,NORTH,Bhopal,09-11-2025,Home,Chair,3,₹999,0,12000,Cash,delivered,1,Instagram
+ORD1180,C064,Riya Shah ,FEMALE,25,Nrth,Jaipur,11-06-2025,Electrnics,Laptop,-1,2500,-5,30000,UPI,DELIVERED,2,
+ORD1181,C127,Sneha Joshi,Male,45,West, Mumbai,06-02-2026,Groceries,Rice,-1,2500,0,12000,UPI,DELIVERED,3,Facebook
+ORD1182,C245,Priya Patel,Male,25,North,Jaipur,01/26/26,Home,Mixer,0,7999,10,999,UPI,Delivered,4,
+ORD1183,C022,Amit Singh,M,25,South, Mumbai,12/26/25,Fashon,Jeans,50,4500 INR,-5,12000,upi,delivered,5,Google Ads
+ORD1184,C023,Sneha Joshi,Male,150,North,Jaipur,30-01-2025,Home,Chair,5,4500 INR,15,-500,upi,Delivered,1,Facebook
+ORD1185,C033,Riya Shah,FEMALE,25,North,Lucknow,"Mar 27,2025",Electronics,Laptop,10,2500,20%,30000,Cash,DELIVERED,5,Instagram
+ORD1186,C015,Vikram Das,F,31,south,Ahmedabad ,"Sep 19,2025",Fashon,Jeans,2,4500 INR,,2500,UPI,Cancelled,,Instagram
+ORD1187,C063,Rahul Sharma,Female,-4,East,Ahmedabad ,2026-03-16,Fashion,Jeans,50,₹999,0,999,UPI,Cancelled,,Email
+ORD1188,C147,Karan Mehta,Male,,North,Ahmedabad ,2025-05-19,Fashion,Shoes,4,4500 INR,120,999,Wallet,Delivered,4,Instagram
+ORD1189,C003,Karan Mehta ,male,60,South,Pune,10/11/25,Sports,Cricket Bat,5,2500,5,5000,Card,Cancelled,4,Facebook
+ORD1190,C139,Karan Mehta,FEMALE,21,south,Delhi,13-01-2025,Groceries,Rice,3,₹999,-5,30000,Cash,DELIVERED,1,Facebook
+ORD1191,C183,Riya Shah,Male,21,Nrth,Bhopal,13-05-2026,Groceries,Rice,-1,4500 INR,0,-500,Card,Returned,,Instagram
+ORD1192,C112,Amit Singh,male,60,South,Lucknow,2025-10-31,Electronic,Headphones,3,4500 INR,5,30000,Cash,DELIVERED,3,Email
+ORD1193,C040,Priya Patel,male,150,West,Lucknow,2026-02-04,Fashon,T-Shirt,2,"1,499",10,5000,UPI,Cancelled,3,Facebook
+ORD1194,C207,Riya Shah,FEMALE,21,Nrth,Lucknow,16-02-2025,Sports,Cricket Bat,10,2500,5,999,UPI,delivered,3,Email
+ORD1195,C219,Vikram Das,F,,Nrth, Mumbai,01/16/25,Groceries,Rice,5,2500,10,5000,UPI,delivered,1,Instagram
+ORD1196,C150,Riya Shah,Male,21,north,Pune,2025-07-10,Electronics,Laptop,3,"1,499",-5,-500,Cash,delivered,1,Google Ads
+ORD1197,C211,Sneha Joshi,Female,21,East,Bhopal,04/19/26,Electronic,Laptop,10,₹999,10,999,Card,delivered,2,Google Ads
+ORD1198,C128,Sneha Joshi ,F,150,North, Mumbai,"Nov 28,2025",Fashon,Shoes,3,₹999,15,2500,Cash,delivered,4,Facebook
+ORD1199,C123,Vikram Das,M,,south,Bhopal,"Feb 05,2026",Groceries,Rice,50,₹999,-5,2500,upi,Delivered,3,
+ORD1200,C197,Neha Gupta,male,25,Nrth,Pune,"Sep 29,2025",Fashion,T-Shirt,5,₹999,,2500,Wallet,Delivered,2,
+ORD1201,C207,Karan Mehta,F,21,south,Ahmedabad ,"Oct 31,2025",Home,Mixer,3,"1,499",15,12000,upi,Returned,5,Google Ads
+ORD1202,C006,Vikram Das,Male,-4,Nrth,Ahmedabad ,30-04-2025,Electrnics,Smartphone,1,₹999,0,2500,upi,DELIVERED,1,Instagram
+ORD1203,C096,Sneha Joshi,F,25,south,Jaipur,2026-05-07,Electrnics,Headphones,3,₹999,120,2500,upi,delivered,,Email
+ORD1204,C097,Riya Shah,FEMALE,60,NORTH,Ahmedabad ,25-04-2025,Sports,Cricket Bat,3,7999,120,-500,UPI,Cancelled,4,
+ORD1205,C240,Vikram Das,male,-4,north,Pune,2025-11-24,Electronics,Laptop,0,7999,15,2500,Card,delivered,,Instagram
+ORD1206,C090,Riya Shah,Male,21,North,Bhopal,2025-05-08,Beauty,Perfume,1,2500,15,5000,Cash,delivered,4,Email
+ORD1207,C202,Neha Gupta ,male,150,north,Delhi,03/01/26,Home,Mixer,50,4500 INR,5,2500,UPI,DELIVERED,3,Instagram
+ORD1208,C141,Priya Patel,M,150,North,Bhopal,2026-01-10,Electronic,Smartphone,3,4500 INR,10,-500,upi,Cancelled,4,Facebook
+ORD1209,C170,Riya Shah,M,45,north,Delhi,"Jul 29,2025",Electronics,Laptop,0,"1,499",15,5000,Wallet,Cancelled,4,Facebook
+ORD1210,C052,Priya Patel,Male,45,NORTH,Jaipur,05/31/25,Electronics,Smartphone,1,4500 INR,5,0,Cash,Delivered,3,Email
+ORD1211,C227,Sneha Joshi,M,31,West,Delhi,"Apr 05,2025",Sports,Cricket Bat,5,₹999,-5,2500,Cash,Returned,3,Facebook
+ORD1212,C207,Sneha Joshi,F,45,west,Delhi,"Feb 13,2025",Fashon,Jeans,1,"1,499",5,30000,Cash,Cancelled,4,
+ORD1213,C129,Amit Singh,Male,150,NORTH,Ahmedabad ,2025-07-22,Sports,Football,10,2500,5,999,upi,delivered,1,Email
+ORD1214,C082,Priya Patel,Male,0,west,Bhopal,"Mar 04,2026",Electronic,Headphones,-1,"1,499",10,12000,Card,DELIVERED,5,Email
+ORD1215,C038,Priya Patel,Male,25,South,Lucknow,01-08-2025,Electronics,Headphones,50,4500 INR,5,5000,Card,Returned,,Email
+ORD1216,C010,Sneha Joshi ,M,45,North,,03/15/25,Sports,Football,3,2500,-5,2500,Card,Delivered,3,Google Ads
+ORD1217,C250,Vikram Das,M,60,East, Mumbai,"Mar 10,2025",Fashon,Shoes,10,₹999,15,999,Cash,delivered,4,Email
+ORD1218,C182,Sneha Joshi,male,,North,Ahmedabad ,"Feb 03,2025",Groceries,Cooking Oil,1,7999,10,999,upi,Delivered,2,Instagram
+ORD1219,,Sneha Joshi,FEMALE,25,North,Pune,07/08/25,Sports,Football,0,"1,499",20%,2500,Cash,Cancelled,4,Facebook
+ORD1220,C073,Rahul Sharma,Female,21,NORTH,Pune,2026-01-19,Sports,Cricket Bat,0,"1,499",20%,30000,upi,delivered,,Facebook
+ORD1221,C122,Amit Singh,FEMALE,31,North,Pune,2026-03-19,Fashon,Jeans,-1,7999,0,2500,Wallet,DELIVERED,,Google Ads
+ORD1222,C078,Sneha Joshi,F,25,North,Lucknow,04/22/25,Home,Mixer,0,4500 INR,20%,12000,Wallet,Cancelled,3,Google Ads
+ORD1223,C221,Riya Shah,M,60,Nrth,Ahmedabad ,"Nov 24,2025",Electronic,Smartphone,2,2500,20%,12000,upi,Delivered,5,Email
+ORD1224,C104,Sneha Joshi,FEMALE,21,Nrth,Lucknow,05/13/25,Beauty,Face Wash,1,4500 INR,20%,-500,upi,Cancelled,,Email
+ORD1225,C121,Amit Singh ,FEMALE,60,west,Ahmedabad ,2025-05-31,Beauty,Perfume,3,7999,10,-500,Card,Delivered,2,Google Ads
+ORD1226,C150,Riya Shah,Female,25,West,Delhi,"Jul 10,2025",Fashion,Jeans,5,4500 INR,120,30000,Wallet,Cancelled,5,Instagram
+ORD1227,C106,Rahul Sharma,male,31,Nrth,Lucknow,"Sep 29,2025",Sports,Football,50,₹999,-5,5000,Wallet,Returned,2,Google Ads
+ORD1228,C002,Vikram Das,M,45,NORTH,Ahmedabad ,2025-06-10,Electrnics,Laptop,10,2500,10,5000,UPI,delivered,5,Email
+ORD1229,C137,Neha Gupta,FEMALE,-4,North,Lucknow,2025-01-03,Home,Mixer,-1,4500 INR,-5,30000,Wallet,delivered,1,Instagram
+ORD1230,C129,Riya Shah,male,25,North,Jaipur,02/22/25,Fashion,T-Shirt,0,2500,10,2500,Cash,Cancelled,5,
+ORD1231,C043,Sneha Joshi,Male,45,Nrth,Ahmedabad ,03-07-2025,Beauty,Perfume,3,2500,,999,UPI,Cancelled,5,Facebook
+ORD1232,C153,Rahul Sharma,FEMALE,25,North,Delhi,2026-01-30,Electronic,Smartphone,1,4500 INR,20%,-500,UPI,Returned,4,Email
+ORD1233,C078,Sneha Joshi,FEMALE,25,west,Jaipur,2025-04-16,Electronic,Headphones,5,4500 INR,10,12000,Wallet,delivered,4,Instagram
+ORD1234,C156,Neha Gupta ,M,,Nrth,Lucknow,12-09-2025,Groceries,Rice,5,₹999,5,-500,Cash,DELIVERED,2,Instagram
+ORD1235,C004,Priya Patel,Male,150,NORTH, Mumbai,2025-05-01,Groceries,Cooking Oil,4,4500 INR,120,30000,Wallet,Delivered,,Instagram
+ORD1236,C013,Priya Patel,male,21,South,Lucknow,05/16/25,Fashon,Jeans,4,4500 INR,20%,30000,Card,Returned,,Instagram
+ORD1237,C229,Vikram Das,F,60,north,Lucknow,"Jun 18,2025",Electronic,Laptop,1,"1,499",10,30000,Card,delivered,1,Email
+ORD1238,C167,Amit Singh,Male,31,North,Ahmedabad ,02/14/26,Home,Mixer,5,4500 INR,,0,Cash,Cancelled,4,
+ORD1239,C124,Vikram Das,Male,0,West,Delhi,18-03-2026,Sports,Football,-1,2500,0,0,Card,DELIVERED,1,
+ORD1240,C124,Karan Mehta,FEMALE,0,NORTH,Delhi,10-08-2025,Fashion,Jeans,0,7999,5,0,upi,Cancelled,4,Email
+ORD1241,C013,Neha Gupta,F,0,East,Pune,"Jun 19,2025",Electrnics,Laptop,10,2500,15,0,Cash,Returned,5,Email
+ORD1242,C027,Sneha Joshi,Female,21,west,Delhi,2025-09-12,Electronic,Smartphone,10,2500,5,30000,UPI,Cancelled,5,Google Ads
+ORD1243,C210,Neha Gupta ,Female,-4,west,,2026-02-27,Groceries,Rice,10,2500,120,-500,Card,Returned,1,Instagram
+ORD1244,C180,Priya Patel,Male,31,West,Ahmedabad ,"Oct 08,2025",Fashion,T-Shirt,0,2500,20%,30000,Cash,Delivered,3,
+ORD1245,C184,Karan Mehta,Male,0,North, Mumbai,23-08-2025,Fashion,T-Shirt,2,4500 INR,15,30000,Cash,Returned,,
+ORD1246,C215,Vikram Das,F,31,NORTH,Ahmedabad ,10/11/25,Groceries,Rice,10,₹999,0,0,Cash,Cancelled,5,Google Ads
+ORD1247,C247,Karan Mehta,M,150,NORTH,Ahmedabad ,05/21/25,Groceries,Cooking Oil,-1,7999,15,5000,Wallet,Cancelled,3,
+ORD1248,C236,Amit Singh,FEMALE,31,west,Lucknow,"Dec 18,2025",Beauty,Face Wash,4,"1,499",20%,-500,UPI,DELIVERED,5,Email
+ORD1249,C038,Rahul Sharma,FEMALE,21,Nrth,Jaipur,01/13/25,Home,Mixer,-1,₹999,5,30000,upi,DELIVERED,,Google Ads
+ORD1250,C027,Neha Gupta,FEMALE,,East,Pune,07/03/25,Electrnics,Laptop,5,"1,499",0,12000,Card,Delivered,4,Email
+ORD1251,C052,Vikram Das,male,-4,west,Pune,"Jan 16,2026",Home,Mixer,50,₹999,0,30000,upi,DELIVERED,4,Facebook
+ORD1252,C110,Riya Shah ,F,60,NORTH,Ahmedabad ,2025-07-13,Electronic,Laptop,3,7999,5,12000,Card,Delivered,3,Email
+ORD1253,C126,Karan Mehta,Male,-4,west,Pune,"Feb 01,2026",Electrnics,Laptop,3,2500,0,999,Wallet,Delivered,5,Facebook
+ORD1254,C170,Karan Mehta,M,-4,South,Pune,29-03-2026,Home,Mixer,2,2500,15,30000,Wallet,Cancelled,4,
+ORD1255,C246,Rahul Sharma,FEMALE,-4,East, Mumbai,09-04-2026,Electronics,Laptop,0,4500 INR,15,5000,Card,Cancelled,,Google Ads
+ORD1256,C076,Neha Gupta,M,,north, Mumbai,2025-09-07,Electronics,Headphones,0,7999,,999,Wallet,Cancelled,1,Instagram
+ORD1257,C166,Priya Patel,FEMALE,31,North,,04/16/25,Fashion,Jeans,4,4500 INR,5,-500,Card,Delivered,1,Instagram
+ORD1258,C234,Riya Shah,Female,0,West,Bhopal,22-10-2025,Electronics,Laptop,5,7999,5,5000,Card,Delivered,4,Instagram
+ORD1259,C092,Priya Patel,M,60,north,Jaipur,2025-12-25,Groceries,Rice,2,7999,0,30000,Cash,Returned,4,Instagram
+ORD1260,C204,Riya Shah,FEMALE,31,South,Lucknow,01/18/26,Sports,Football,50,"1,499",10,0,Wallet,Cancelled,2,Instagram
+ORD1261,C192,Karan Mehta ,male,0,west,Ahmedabad ,06-06-2025,Electronics,Laptop,-1,7999,5,999,upi,delivered,5,Google Ads
+ORD1262,C166,Priya Patel,M,25,South, Mumbai,03/12/26,Fashion,T-Shirt,3,7999,0,999,Wallet,Returned,3,Google Ads
+ORD1263,C231,Neha Gupta,M,150,West,Lucknow,2025-11-14,Electrnics,Headphones,4,₹999,20%,12000,Card,Cancelled,2,
+ORD1264,C202,Neha Gupta,FEMALE,0,South,Lucknow,10-06-2025,Beauty,Perfume,-1,"1,499",0,999,Card,Returned,4,Email
+ORD1265,C216,Riya Shah,male,,Nrth,Jaipur,2025-03-31,Beauty,Perfume,10,7999,5,-500,UPI,Delivered,1,
+ORD1266,C142,Riya Shah,F,,West,Ahmedabad ,2026-04-10,Electronics,Headphones,-1,7999,15,2500,Cash,delivered,5,Google Ads
+ORD1267,C129,Rahul Sharma,FEMALE,45,NORTH,Ahmedabad ,"Jul 23,2025",Electrnics,Smartphone,50,7999,5,5000,upi,delivered,5,
+ORD1268,C060,Priya Patel,M,-4,Nrth,Delhi,04/23/25,Electrnics,Headphones,10,2500,0,-500,upi,Cancelled,3,Email
+ORD1269,C214,Riya Shah,F,,NORTH,Bhopal,"Feb 22,2025",Sports,Cricket Bat,1,₹999,120,-500,Cash,DELIVERED,5,Instagram
+ORD1270,C125,Vikram Das ,F,21,west,Ahmedabad ,"Jun 30,2025",Groceries,Cooking Oil,-1,"1,499",-5,5000,upi,delivered,1,
+ORD1271,C170,Neha Gupta,Female,-4,north,,2025-07-05,Fashon,T-Shirt,3,"1,499",10,-500,Cash,Returned,2,
+ORD1272,C147,Amit Singh,male,,North,Ahmedabad ,23-01-2025,Electrnics,Headphones,-1,₹999,15,0,upi,DELIVERED,2,
+ORD1273,C223,Vikram Das,male,45,East,Ahmedabad ,08/18/25,Home,Chair,5,₹999,15,30000,Wallet,delivered,5,
+ORD1274,C099,Amit Singh,Male,21,Nrth,Bhopal,04/28/25,Fashon,T-Shirt,0,4500 INR,5,30000,upi,Cancelled,1,Facebook
+ORD1275,C169,Amit Singh,F,,North,Bhopal,02/17/25,Sports,Football,50,7999,5,12000,Cash,DELIVERED,1,
+ORD1276,C109,Amit Singh,M,150,Nrth, Mumbai,2025-10-29,Home,Chair,10,4500 INR,120,2500,Wallet,Cancelled,4,Google Ads
+ORD1277,C097,Neha Gupta,FEMALE,-4,East,Lucknow,2025-09-24,Fashion,T-Shirt,1,7999,5,0,upi,Returned,,
+ORD1278,C175,Sneha Joshi,male,0,west,,"Nov 10,2025",Fashon,Shoes,50,4500 INR,120,999,Card,Cancelled,5,Email
+ORD1279,C192,Neha Gupta ,Female,31,north,Pune,2026-03-14,Fashon,Shoes,0,4500 INR,10,12000,Cash,DELIVERED,5,
+ORD1280,C121,Sneha Joshi,Male,25,South,Pune,26-02-2026,Electronics,Laptop,-1,₹999,5,2500,UPI,Cancelled,1,Email
+ORD1281,C052,Riya Shah,male,21,west,Pune,2025-08-13,Home,Mixer,1,"1,499",,12000,upi,Delivered,3,Facebook
+ORD1282,C104,Neha Gupta,F,21,north, Mumbai,06/30/25,Electronics,Laptop,2,2500,-5,12000,Card,Cancelled,5,Google Ads
+ORD1283,C148,Rahul Sharma,M,31,East, Mumbai,08/21/25,Beauty,Perfume,4,7999,15,12000,UPI,Cancelled,3,Google Ads
+ORD1284,C248,Sneha Joshi,F,150,Nrth,Lucknow,12/22/25,Electronic,Headphones,5,7999,20%,30000,Cash,Returned,5,Instagram
+ORD1285,C174,Neha Gupta,M,0,south,Delhi,21-11-2025,Sports,Football,5,₹999,-5,-500,Card,delivered,3,Instagram
+ORD1286,C091,Neha Gupta,F,60,NORTH,Pune,"Sep 01,2025",Home,Mixer,2,7999,10,5000,upi,delivered,,Facebook
+ORD1287,C040,Priya Patel,Male,25,West,Delhi,"Mar 05,2026",Fashon,T-Shirt,4,"1,499",15,30000,Wallet,Delivered,4,Google Ads
+ORD1288,C102,Neha Gupta ,F,31,North,Bhopal,"Jan 27,2026",Beauty,Perfume,5,4500 INR,10,5000,Wallet,Delivered,5,Google Ads
+ORD1289,C004,Neha Gupta,Female,25,south,Lucknow,2025-06-11,Home,Chair,10,₹999,,12000,Card,delivered,5,Google Ads
+ORD1290,C128,Sneha Joshi,male,0,south,Lucknow,07-07-2025,Fashion,Shoes,10,7999,120,30000,Cash,DELIVERED,4,Facebook
+ORD1291,C143,Sneha Joshi,Female,45,NORTH,Ahmedabad ,16-02-2026,Electrnics,Headphones,4,₹999,20%,5000,UPI,delivered,4,Email
+ORD1292,,Riya Shah,M,,North,Bhopal,02/07/26,Electrnics,Headphones,50,7999,120,0,upi,Delivered,2,Google Ads
+ORD1293,C144,Riya Shah,M,21,East, Mumbai,"Jul 04,2025",Sports,Football,10,2500,20%,2500,Wallet,delivered,5,
+ORD1294,C199,Vikram Das,Male,0,South,,12/11/25,Groceries,Rice,5,2500,120,-500,upi,delivered,,Google Ads
+ORD1295,C081,Karan Mehta,FEMALE,60,South,Bhopal,25-06-2025,Home,Mixer,2,₹999,10,2500,Cash,DELIVERED,,
+ORD1296,C033,Neha Gupta,FEMALE,60,north,Pune,2026-03-14,Groceries,Cooking Oil,-1,"1,499",10,999,Cash,Delivered,1,Instagram
+ORD1297,C159,Amit Singh ,Male,0,South,Pune,"Feb 23,2025",Sports,Football,1,4500 INR,5,999,Card,Returned,,Facebook
+ORD1298,C221,Karan Mehta,Female,150,west,Jaipur,"Dec 06,2025",Electrnics,Headphones,3,₹999,0,12000,Cash,delivered,,
+ORD1299,C233,Karan Mehta,Female,,Nrth, Mumbai,"Sep 26,2025",Electrnics,Headphones,10,7999,-5,5000,Card,DELIVERED,4,Google Ads
+ORD1300,C121,Rahul Sharma,FEMALE,150,West,Jaipur,"Jun 26,2025",Electrnics,Smartphone,1,₹999,10,0,Cash,DELIVERED,5,Facebook
+ORD1301,C102,Neha Gupta,male,0,East,Pune,03/28/26,Electronics,Headphones,0,"1,499",-5,2500,UPI,Returned,,Facebook
+ORD1302,C219,Priya Patel,male,31,South, Mumbai,31-07-2025,Groceries,Cooking Oil,5,7999,20%,-500,Cash,Cancelled,4,Google Ads
+ORD1303,C048,Priya Patel,M,60,NORTH,,2025-01-26,Sports,Football,0,₹999,10,-500,UPI,delivered,1,Facebook
+ORD1304,C096,Vikram Das,FEMALE,21,south, Mumbai,06/09/25,Electronics,Smartphone,4,2500,-5,30000,upi,Delivered,3,Email
+ORD1305,C210,Sneha Joshi,Male,25,Nrth,Bhopal,"Apr 04,2026",Electronic,Headphones,10,"1,499",15,30000,Cash,delivered,,Instagram
+ORD1306,C175,Riya Shah ,M,31,North, Mumbai,08/31/25,Fashion,Shoes,2,7999,15,2500,Cash,DELIVERED,2,Google Ads
+ORD1307,C084,Rahul Sharma,male,60,north,Bhopal,11/21/25,Electronics,Headphones,4,₹999,15,30000,upi,Delivered,1,
+ORD1308,C024,Karan Mehta,FEMALE,21,North,Lucknow,03/22/25,Sports,Football,0,₹999,15,-500,upi,Cancelled,1,Facebook
+ORD1309,C188,Neha Gupta,Male,0,south,Ahmedabad ,02/17/26,Sports,Football,0,7999,120,2500,UPI,Returned,,Email
+ORD1310,C140,Karan Mehta,M,150,South,Ahmedabad ,18-10-2025,Groceries,Cooking Oil,50,4500 INR,15,0,Wallet,delivered,4,Google Ads
+ORD1311,C188,Amit Singh,Male,-4,Nrth,Lucknow,02/02/26,Fashon,Jeans,0,4500 INR,0,-500,UPI,Cancelled,4,Facebook
+ORD1312,C165,Karan Mehta,Male,25,west, Mumbai,06/15/25,Groceries,Cooking Oil,50,"1,499",20%,0,upi,delivered,1,Facebook
+ORD1313,C169,Vikram Das,F,60,North,Lucknow,10/20/25,Electronic,Smartphone,4,₹999,0,999,Wallet,Delivered,1,Facebook
+ORD1314,C211,Karan Mehta,FEMALE,21,South,Delhi,10/13/25,Sports,Football,10,₹999,120,-500,UPI,DELIVERED,1,Facebook
+ORD1315,C135,Neha Gupta ,F,31,west,Bhopal,08-04-2025,Groceries,Rice,2,"1,499",-5,-500,UPI,Cancelled,3,Email
+ORD1316,C169,Amit Singh,F,150,south,Lucknow,"Sep 16,2025",Home,Chair,3,"1,499",-5,12000,Card,DELIVERED,4,Email
+ORD1317,C093,Vikram Das,Female,0,North,Delhi,"Jan 28,2026",Beauty,Face Wash,50,"1,499",-5,2500,Wallet,Delivered,5,Facebook
+ORD1318,C006,Riya Shah,F,,west,Ahmedabad ,"Mar 15,2026",Fashon,T-Shirt,5,"1,499",15,0,UPI,Returned,3,Facebook
+ORD1319,C208,Riya Shah,Male,0,Nrth, Mumbai,"Apr 30,2025",Electrnics,Smartphone,0,7999,15,-500,Card,Returned,2,Email
+ORD1320,C236,Karan Mehta,M,0,East, Mumbai,2025-02-10,Electronic,Headphones,5,₹999,-5,30000,upi,Cancelled,1,Email
+ORD1321,C084,Neha Gupta,male,21,East,,04-10-2025,Electronics,Smartphone,50,₹999,120,30000,Wallet,Cancelled,5,Instagram
+ORD1322,C022,Vikram Das,F,21,west,Bhopal,"Mar 09,2025",Fashion,Shoes,5,4500 INR,10,2500,UPI,Returned,5,Email
+ORD1323,C167,Neha Gupta,F,,Nrth,Pune,09/07/25,Electrnics,Laptop,10,7999,15,0,Card,Returned,3,
+ORD1324,C083,Karan Mehta ,F,21,South,Ahmedabad ,28-06-2025,Electronic,Laptop,-1,4500 INR,120,2500,Wallet,Returned,5,Facebook
+ORD1325,C029,Rahul Sharma,male,31,South,Delhi,2025-03-21,Sports,Football,4,"1,499",120,2500,UPI,DELIVERED,4,Email
+ORD1326,C141,Vikram Das,F,31,North,Bhopal,"Apr 15,2025",Electronics,Smartphone,4,7999,15,12000,Wallet,Delivered,3,Facebook
+ORD1327,C168,Rahul Sharma,Male,0,South,Lucknow,01/28/25,Electronics,Smartphone,4,7999,20%,30000,UPI,Delivered,3,Email
+ORD1328,C048,Neha Gupta,F,150,west,Delhi,2025-09-06,Fashion,Shoes,50,₹999,120,0,upi,Cancelled,3,Google Ads
+ORD1329,C091,Riya Shah,male,,South,Delhi,"Dec 17,2025",Sports,Cricket Bat,3,₹999,120,-500,Card,Returned,1,
+ORD1330,C023,Sneha Joshi,F,45,East,Pune,03-12-2025,Fashon,T-Shirt,3,2500,-5,12000,upi,Returned,3,
+ORD1331,C149,Neha Gupta,male,60,west,Ahmedabad ,01-12-2025,Beauty,Perfume,50,"1,499",15,5000,upi,Cancelled,2,Google Ads
+ORD1332,C187,Rahul Sharma,M,0,East,Jaipur,12-06-2025,Electronic,Headphones,50,₹999,10,5000,Card,delivered,2,Instagram
+ORD1333,C153,Neha Gupta ,male,21,south, Mumbai,07-11-2025,Electrnics,Laptop,1,7999,20%,-500,Cash,delivered,5,
+ORD1334,C042,Neha Gupta,male,21,East,Delhi,31-08-2025,Sports,Cricket Bat,3,4500 INR,,2500,Cash,delivered,,Facebook
+ORD1335,C222,Vikram Das,male,0,East,Delhi,"Dec 19,2025",Fashion,T-Shirt,3,4500 INR,,12000,Cash,DELIVERED,4,
+ORD1336,C225,Neha Gupta,F,,East,Delhi,2025-08-22,Groceries,Rice,50,₹999,,12000,Cash,Cancelled,,Instagram
+ORD1337,C119,Amit Singh,Female,60,North,Ahmedabad ,"Feb 01,2026",Fashion,Shoes,10,4500 INR,20%,5000,Cash,Delivered,,
+ORD1338,C116,Rahul Sharma,male,150,Nrth,,"Jul 31,2025",Electronic,Laptop,50,"1,499",-5,0,Card,DELIVERED,,Facebook
+ORD1339,C187,Amit Singh,Female,,East,Delhi,02/13/25,Electronic,Laptop,2,4500 INR,120,30000,upi,DELIVERED,5,Facebook
+ORD1340,C187,Vikram Das,M,31,north,Ahmedabad ,"Jun 07,2025",Electrnics,Laptop,3,₹999,-5,999,UPI,Cancelled,3,Instagram
+ORD1341,C061,Neha Gupta,F,150,West,Bhopal,11/08/25,Sports,Cricket Bat,10,7999,0,5000,UPI,Cancelled,5,Instagram
+ORD1342,C038,Rahul Sharma ,FEMALE,-4,North,Ahmedabad ,26-01-2025,Fashion,Jeans,5,7999,15,30000,UPI,Cancelled,5,Google Ads
+ORD1343,C173,Riya Shah,F,,NORTH,,02-04-2025,Beauty,Face Wash,1,₹999,-5,-500,Wallet,DELIVERED,1,Instagram
+ORD1344,C216,Priya Patel,M,150,NORTH, Mumbai,01/24/26,Fashon,Shoes,0,4500 INR,5,-500,Card,DELIVERED,5,Email
+ORD1345,C124,Riya Shah,Female,-4,South,Lucknow,2025-02-25,Groceries,Rice,4,7999,0,999,Wallet,Cancelled,4,
+ORD1346,C050,Rahul Sharma,Male,21,West, Mumbai,"Dec 29,2025",Sports,Cricket Bat,3,7999,15,-500,upi,Cancelled,4,Email
+ORD1347,C177,Riya Shah,M,25,South,Jaipur,06-01-2025,Electronics,Smartphone,0,7999,15,12000,Wallet,DELIVERED,1,Instagram
+ORD1348,C050,Karan Mehta,M,150,West,Delhi,03-03-2026,Beauty,Perfume,-1,7999,0,-500,upi,Returned,2,Email
+ORD1349,C145,Karan Mehta,F,,North,Pune,"Mar 04,2026",Groceries,Cooking Oil,10,4500 INR,0,12000,Card,DELIVERED,1,Facebook
+ORD1350,C048,Priya Patel,M,-4,North,Jaipur,10/20/25,Fashon,T-Shirt,0,4500 INR,10,5000,UPI,Returned,2,Google Ads
+ORD1351,C096,Rahul Sharma ,male,25,West,Delhi,2025-03-31,Sports,Cricket Bat,4,7999,20%,30000,Cash,Cancelled,2,Facebook
+ORD1352,C211,Amit Singh,male,21,West,Bhopal,2025-03-15,Beauty,Perfume,50,2500,120,-500,Wallet,Delivered,1,Google Ads
+ORD1353,C027,Riya Shah,Male,60,Nrth,Lucknow,2026-04-01,Electronics,Headphones,2,2500,,999,upi,DELIVERED,3,
+ORD1354,C030,Rahul Sharma,F,,west, Mumbai,"Mar 22,2025",Beauty,Perfume,2,2500,10,999,Wallet,DELIVERED,5,Google Ads
+ORD1355,C080,Karan Mehta,F,150,North,Ahmedabad ,2025-03-29,Fashon,T-Shirt,5,7999,15,0,Cash,Delivered,1,Email
+ORD1356,C158,Karan Mehta,M,-4,Nrth, Mumbai,12/27/25,Electronics,Laptop,-1,4500 INR,10,30000,Cash,Cancelled,2,Instagram
+ORD1357,C243,Neha Gupta,male,60,south,Bhopal,29-08-2025,Sports,Football,10,2500,,999,Card,DELIVERED,4,Email
+ORD1358,C217,Amit Singh,M,-4,NORTH, Mumbai,09/03/25,Electronics,Laptop,10,₹999,120,5000,UPI,DELIVERED,5,Instagram
+ORD1359,C141,Amit Singh,Female,0,north,Lucknow,03-05-2025,Fashon,Jeans,10,4500 INR,-5,999,Wallet,Returned,4,
+ORD1360,C084,Priya Patel ,Female,31,South,Bhopal,02/28/25,Beauty,Face Wash,3,₹999,,0,Wallet,Delivered,,
+ORD1361,C228,Rahul Sharma,male,31,West,Jaipur,22-04-2025,Home,Mixer,10,₹999,5,5000,Wallet,Cancelled,4,Facebook
+ORD1362,C184,Karan Mehta,Male,21,west,Bhopal,04/16/26,Fashion,Jeans,0,2500,20%,30000,upi,DELIVERED,1,Google Ads
+ORD1363,C222,Rahul Sharma,male,0,East,Lucknow,"Feb 26,2025",Groceries,Rice,1,7999,120,-500,Cash,Returned,4,Email
+ORD1364,C216,Karan Mehta,Female,31,South,Ahmedabad ,04/07/25,Groceries,Rice,3,4500 INR,10,999,UPI,Delivered,,Instagram
+ORD1365,,Sneha Joshi,Female,0,NORTH,,13-02-2025,Electrnics,Headphones,10,4500 INR,10,12000,Cash,Cancelled,4,Email
+ORD1366,C217,Neha Gupta,FEMALE,,South,Bhopal,10/23/25,Beauty,Face Wash,3,4500 INR,0,12000,Wallet,DELIVERED,1,Instagram
+ORD1367,C037,Riya Shah,Female,,north, Mumbai,2026-05-08,Sports,Cricket Bat,2,7999,,999,Cash,Delivered,,
+ORD1368,C132,Vikram Das,F,-4,East,Lucknow,08/29/25,Fashon,Jeans,1,2500,0,30000,Card,DELIVERED,2,Instagram
+ORD1369,C147,Rahul Sharma ,FEMALE,60,North,Jaipur,24-10-2025,Fashon,Jeans,5,₹999,,5000,UPI,delivered,5,Instagram
+ORD1370,C004,Priya Patel,F,31,NORTH,,"May 21,2025",Fashon,Shoes,3,7999,20%,2500,upi,DELIVERED,,Facebook
+ORD1371,C153,Amit Singh,Female,0,East,Pune,13-02-2025,Sports,Football,50,₹999,120,-500,Cash,delivered,2,
+ORD1372,C103,Vikram Das,M,150,west,Pune,03/27/25,Beauty,Face Wash,5,₹999,0,5000,Cash,Returned,3,Facebook
+ORD1373,C247,Rahul Sharma,Male,,south,Bhopal,"Jul 15,2025",Groceries,Cooking Oil,1,2500,,12000,Card,DELIVERED,3,Google Ads
+ORD1374,C134,Karan Mehta,FEMALE,31,south,Delhi,11-01-2026,Electronic,Smartphone,-1,4500 INR,15,-500,UPI,Delivered,1,Email
+ORD1375,C065,Neha Gupta,Male,21,north,Delhi,"Apr 23,2025",Electronic,Headphones,2,4500 INR,120,12000,upi,Cancelled,,Instagram
+ORD1376,C179,Amit Singh,M,60,West, Mumbai,2026-04-04,Electronic,Laptop,3,4500 INR,10,-500,Cash,DELIVERED,4,Google Ads
+ORD1377,C086,Rahul Sharma,M,60,NORTH,,07/15/25,Fashon,T-Shirt,2,2500,0,0,Cash,delivered,5,Email
+ORD1378,C056,Priya Patel ,Female,60,north,Delhi,10/04/25,Electrnics,Headphones,10,₹999,10,0,UPI,Cancelled,,Google Ads
+ORD1379,C171,Sneha Joshi,M,31,south,Bhopal,2026-04-23,Sports,Football,10,"1,499",0,12000,UPI,Cancelled,,Email
+ORD1380,C245,Vikram Das,Male,,south,Lucknow,01/02/25,Sports,Cricket Bat,-1,₹999,15,-500,Card,Returned,1,Instagram
+ORD1381,C046,Rahul Sharma,Female,45,South,Bhopal,28-11-2025,Beauty,Perfume,2,4500 INR,20%,0,Card,Returned,1,Email
+ORD1382,C126,Sneha Joshi,Male,,South,,04-01-2026,Fashion,T-Shirt,1,"1,499",0,12000,Cash,Delivered,1,Google Ads
+ORD1383,C241,Amit Singh,FEMALE,45,north,Delhi,04/19/25,Electronics,Smartphone,1,4500 INR,5,-500,upi,Returned,,Instagram
+ORD1384,C232,Riya Shah,Male,150,NORTH, Mumbai,2025-03-30,Sports,Football,4,"1,499",0,30000,UPI,Delivered,4,
+ORD1385,C084,Priya Patel,FEMALE,,NORTH,Lucknow,02/20/26,Fashion,T-Shirt,4,4500 INR,120,30000,upi,Delivered,5,Facebook
+ORD1386,C044,Karan Mehta,F,31,West,Pune,01/23/26,Beauty,Face Wash,2,2500,10,12000,UPI,delivered,1,
+ORD1387,C046,Priya Patel ,FEMALE,60,East,,2025-01-04,Home,Chair,1,4500 INR,5,-500,upi,delivered,2,Google Ads
+ORD1388,C153,Amit Singh,FEMALE,150,north,Jaipur,2025-11-09,Groceries,Cooking Oil,-1,"1,499",10,2500,Cash,Delivered,5,Facebook
+ORD1389,C119,Neha Gupta,M,21,Nrth, Mumbai,18-03-2026,Fashion,T-Shirt,50,₹999,120,30000,upi,Returned,4,Facebook
+ORD1390,C112,Riya Shah,M,150,North, Mumbai,26-05-2025,Electrnics,Headphones,1,₹999,120,-500,UPI,Cancelled,2,Facebook
+ORD1391,C185,Vikram Das,F,-4,East,Pune,04-04-2026,Electronics,Smartphone,50,₹999,5,-500,Card,delivered,1,Google Ads
+ORD1392,C019,Vikram Das,F,150,North,Bhopal,12-07-2025,Fashion,T-Shirt,4,4500 INR,15,999,upi,Cancelled,4,Facebook
+ORD1393,C250,Riya Shah,male,-4,NORTH,Delhi,"Nov 20,2025",Home,Mixer,3,4500 INR,15,-500,Wallet,Delivered,3,Facebook
+ORD1394,C057,Riya Shah,F,31,NORTH,Pune,"Jan 25,2026",Electronic,Smartphone,10,4500 INR,10,0,Cash,Cancelled,4,Facebook
+ORD1395,C064,Karan Mehta,Female,45,NORTH,Delhi,12-01-2026,Sports,Cricket Bat,5,₹999,-5,5000,UPI,Delivered,4,
+ORD1396,C116,Vikram Das ,male,25,west,Delhi,2026-02-19,Electronics,Smartphone,50,4500 INR,,-500,Cash,delivered,2,Google Ads
+ORD1397,C042,Vikram Das,F,21,West,,"Dec 09,2025",Fashon,T-Shirt,2,₹999,,30000,upi,Returned,2,Google Ads
+ORD1398,C076,Sneha Joshi,M,,Nrth, Mumbai,2025-09-29,Sports,Football,2,4500 INR,120,12000,Card,Delivered,5,Google Ads
+ORD1399,C094,Karan Mehta,male,,north,Pune,2025-11-13,Electronics,Laptop,-1,2500,,999,Card,delivered,5,Instagram
+ORD1400,C129,Sneha Joshi,M,21,north,Lucknow,"Apr 05,2026",Sports,Football,4,2500,120,2500,Cash,Returned,5,
+ORD1401,C205,Priya Patel,male,150,north, Mumbai,"Aug 20,2025",Electronic,Smartphone,50,7999,20%,5000,upi,DELIVERED,1,Instagram
+ORD1402,C134,Rahul Sharma,M,0,west,Ahmedabad ,19-03-2025,Electrnics,Smartphone,2,"1,499",,5000,Card,Returned,4,Instagram
+ORD1403,C106,Karan Mehta,FEMALE,-4,West,,"Mar 04,2026",Fashon,T-Shirt,2,₹999,15,5000,Card,Cancelled,2,Google Ads
+ORD1404,C198,Rahul Sharma,male,-4,South,,"May 13,2026",Electrnics,Smartphone,4,4500 INR,120,999,Wallet,delivered,,
+ORD1405,C011,Karan Mehta ,F,31,West,Jaipur,2025-05-02,Fashon,T-Shirt,3,"1,499",10,2500,upi,delivered,5,Instagram
+ORD1406,C137,Riya Shah,Male,21,East,,04-10-2025,Beauty,Perfume,3,2500,,30000,upi,Returned,3,Facebook
+ORD1407,C122,Riya Shah,F,31,West,Lucknow,"Nov 28,2025",Electronics,Headphones,50,7999,120,-500,UPI,Returned,1,Facebook
+ORD1408,C115,Karan Mehta,Male,-4,North,Pune,13-11-2025,Groceries,Rice,5,₹999,-5,12000,Wallet,delivered,3,Facebook
+ORD1409,C050,Vikram Das,M,,North,Lucknow,05/15/26,Electronics,Laptop,50,4500 INR,5,5000,upi,Returned,3,Email
+ORD1410,C224,Priya Patel,male,150,East,,06/07/25,Beauty,Face Wash,5,2500,120,2500,upi,Returned,,Email
+ORD1411,C223,Karan Mehta,Male,0,north,Delhi,06/05/25,Electrnics,Headphones,2,"1,499",15,5000,Card,Returned,2,
+ORD1412,C011,Riya Shah,F,60,West,,05/29/25,Sports,Football,4,"1,499",-5,999,UPI,Delivered,2,Google Ads
+ORD1413,C126,Neha Gupta,Male,25,South,,02-08-2025,Fashon,Jeans,10,₹999,20%,0,Wallet,DELIVERED,5,Email
+ORD1414,C217,Riya Shah ,male,21,NORTH,Lucknow,2025-09-20,Home,Mixer,10,₹999,120,5000,upi,DELIVERED,2,Instagram
+ORD1415,C136,Priya Patel,F,45,NORTH, Mumbai,"May 29,2025",Fashon,Shoes,-1,2500,0,12000,upi,Cancelled,3,Google Ads
+ORD1416,C004,Amit Singh,F,60,south,,26-02-2026,Fashon,Shoes,0,₹999,120,5000,Card,delivered,1,Facebook
+ORD1417,C235,Priya Patel,Male,31,North,,08/02/25,Electrnics,Headphones,4,"1,499",5,2500,Card,DELIVERED,2,Email
+ORD1418,C057,Amit Singh,FEMALE,31,Nrth,Jaipur,2026-01-17,Groceries,Cooking Oil,3,2500,0,999,upi,delivered,1,Email
+ORD1419,C028,Rahul Sharma,FEMALE,,North,,22-01-2025,Electronic,Laptop,1,4500 INR,-5,0,Card,Delivered,1,Google Ads
+ORD1420,C048,Karan Mehta,Male,25,NORTH,Jaipur,28-10-2025,Electronics,Laptop,2,7999,15,12000,Card,DELIVERED,2,
+ORD1421,C184,Neha Gupta,M,31,west,Delhi,28-09-2025,Fashion,Jeans,2,₹999,0,-500,UPI,delivered,5,Email
+ORD1422,C098,Sneha Joshi,male,,Nrth,Bhopal,"Mar 04,2026",Beauty,Face Wash,10,₹999,10,0,Card,Delivered,4,Instagram
+ORD1423,C022,Karan Mehta ,Female,25,East,Jaipur,2025-10-13,Groceries,Rice,10,2500,20%,5000,Wallet,DELIVERED,,Email
+ORD1424,C230,Vikram Das,FEMALE,-4,NORTH,Delhi,2025-04-07,Fashion,Jeans,-1,2500,-5,-500,Cash,Delivered,4,Email
+ORD1425,C190,Amit Singh,Male,-4,Nrth,Lucknow,2025-07-25,Groceries,Rice,2,"1,499",-5,999,Wallet,Returned,1,Facebook
+ORD1426,C092,Vikram Das,FEMALE,0,West,Jaipur,01/23/26,Home,Mixer,5,7999,20%,999,Cash,Delivered,1,Google Ads
+ORD1427,C213,Priya Patel,Female,21,NORTH,Bhopal,2025-02-20,Sports,Cricket Bat,4,"1,499",0,12000,Card,delivered,3,
+ORD1428,C170,Vikram Das,Female,,South,Lucknow,"Apr 14,2025",Electronic,Laptop,50,4500 INR,,30000,Wallet,Cancelled,1,Instagram
+ORD1429,C114,Vikram Das,Male,21,NORTH,Jaipur,03/13/26,Home,Chair,-1,4500 INR,120,-500,upi,Returned,4,Facebook
+ORD1430,C169,Vikram Das,Female,,NORTH,Delhi,10/19/25,Fashon,Jeans,-1,4500 INR,5,5000,Card,Returned,5,Email
+ORD1431,C033,Karan Mehta,M,21,south,Bhopal,2025-10-30,Beauty,Perfume,0,₹999,0,0,Cash,DELIVERED,3,Email
+ORD1432,C152,Priya Patel ,FEMALE,25,South, Mumbai,"Nov 28,2025",Beauty,Face Wash,4,"1,499",15,2500,upi,Delivered,5,Google Ads
+ORD1433,C179,Vikram Das,F,21,south,Bhopal,2025-05-17,Electronics,Smartphone,-1,7999,-5,12000,Cash,DELIVERED,5,Instagram
+ORD1434,C043,Riya Shah,M,0,Nrth,,"Sep 15,2025",Sports,Football,4,2500,,-500,UPI,Cancelled,2,Google Ads
+ORD1435,C160,Priya Patel,FEMALE,25,south,Jaipur,16-02-2026,Fashon,T-Shirt,5,7999,-5,0,Wallet,Cancelled,4,Email
+ORD1436,C052,Sneha Joshi,Female,60,west,,"Aug 10,2025",Fashion,Shoes,2,2500,20%,-500,Wallet,delivered,1,
+ORD1437,C240,Rahul Sharma,F,45,south,,05/18/25,Electrnics,Headphones,10,"1,499",,999,upi,delivered,,Google Ads
+ORD1438,,Riya Shah,M,31,South,Pune,03/10/26,Home,Mixer,0,₹999,15,5000,upi,Delivered,2,Facebook
+ORD1439,C109,Rahul Sharma,male,31,South,Ahmedabad ,10/14/25,Electronics,Laptop,5,4500 INR,,0,Card,DELIVERED,,
+ORD1440,C081,Riya Shah,Male,0,south, Mumbai,2025-01-29,Electrnics,Headphones,1,4500 INR,0,5000,upi,delivered,1,
+ORD1441,C061,Priya Patel ,M,-4,East,Pune,2025-09-12,Groceries,Rice,50,7999,20%,5000,upi,delivered,1,Facebook
+ORD1442,C126,Karan Mehta,FEMALE,25,south,Bhopal,2026-03-18,Fashion,Shoes,10,4500 INR,20%,5000,upi,DELIVERED,2,Google Ads
+ORD1443,C177,Neha Gupta,M,,East,Jaipur,2026-03-07,Sports,Cricket Bat,5,₹999,0,-500,Card,Delivered,5,Facebook
+ORD1444,C240,Neha Gupta,M,45,NORTH,,2025-06-04,Sports,Cricket Bat,1,4500 INR,20%,-500,Card,Returned,1,Google Ads
+ORD1445,C225,Priya Patel,male,60,west, Mumbai,01/03/26,Electronic,Smartphone,10,4500 INR,120,2500,Cash,Cancelled,,
+ORD1446,C203,Amit Singh,Male,0,Nrth,Jaipur,11/19/25,Beauty,Perfume,1,₹999,10,2500,Wallet,Delivered,1,Facebook
+ORD1447,C116,Vikram Das,FEMALE,31,South,Ahmedabad ,"Feb 10,2026",Fashion,Jeans,3,7999,-5,-500,Wallet,DELIVERED,3,Facebook
+ORD1448,C242,Neha Gupta,Male,21,west,Pune,03/25/26,Electronic,Smartphone,0,"1,499",-5,0,Cash,delivered,3,Facebook
+ORD1449,C246,Karan Mehta,male,25,North,Bhopal,2025-03-18,Electronics,Smartphone,-1,7999,20%,30000,Cash,Returned,1,Facebook
+ORD1450,C111,Neha Gupta ,F,45,South,Pune,15-07-2025,Fashion,T-Shirt,5,2500,,5000,upi,Returned,2,Instagram
+ORD1451,C095,Vikram Das,Male,21,West,Ahmedabad ,10-04-2026,Fashon,Shoes,4,7999,,30000,Card,Returned,,Facebook
+ORD1452,C014,Karan Mehta,male,150,south,Delhi,2025-10-13,Home,Mixer,5,₹999,5,0,Card,Cancelled,5,Email
+ORD1453,C067,Amit Singh,F,150,south,,25-10-2025,Fashon,Shoes,0,"1,499",0,999,UPI,DELIVERED,,
+ORD1454,C128,Riya Shah,FEMALE,-4,East,Jaipur,23-01-2025,Home,Chair,5,₹999,120,2500,Wallet,DELIVERED,5,Google Ads
+ORD1455,C014,Neha Gupta,male,21,Nrth,Ahmedabad ,10/12/25,Home,Chair,0,4500 INR,10,0,Cash,DELIVERED,2,Email
+ORD1456,C118,Vikram Das,Male,31,north,Lucknow,07/02/25,Home,Chair,10,₹999,,0,upi,DELIVERED,2,Facebook
+ORD1457,C107,Priya Patel,male,150,north,Lucknow,27-09-2025,Groceries,Cooking Oil,4,7999,0,0,Card,Delivered,4,Google Ads
+ORD1458,C117,Riya Shah,F,21,south,Delhi,08/24/25,Electronic,Smartphone,3,₹999,5,-500,Wallet,Returned,3,
+ORD1459,C191,Priya Patel ,F,0,north,Bhopal,2026-02-13,Electrnics,Laptop,1,2500,120,2500,upi,delivered,4,Instagram
+ORD1460,C031,Riya Shah,Female,0,South,Ahmedabad ,26-05-2025,Electronics,Laptop,3,4500 INR,-5,2500,UPI,DELIVERED,5,Facebook
+ORD1461,C024,Sneha Joshi,M,31,East,Bhopal,10/16/25,Sports,Cricket Bat,-1,4500 INR,20%,0,UPI,Cancelled,3,Email
+ORD1462,C112,Priya Patel,Female,60,NORTH,Ahmedabad ,05/29/25,Fashion,Jeans,3,4500 INR,5,-500,Card,delivered,5,Email
+ORD1463,C132,Priya Patel,F,0,East, Mumbai,2026-04-15,Fashon,Jeans,1,7999,5,5000,Wallet,DELIVERED,3,Google Ads
+ORD1464,C216,Sneha Joshi,Male,25,East,Jaipur,02-04-2025,Electronic,Headphones,1,₹999,,2500,Wallet,Returned,,Email
+ORD1465,C224,Priya Patel,Female,,North,Delhi,"Feb 10,2025",Fashon,Shoes,3,"1,499",10,5000,UPI,Delivered,2,Email
+ORD1466,C206,Riya Shah,Male,31,NORTH,Delhi,12/20/25,Sports,Cricket Bat,10,2500,120,999,UPI,Delivered,,Facebook
+ORD1467,C023,Riya Shah,Female,31,West,Bhopal,12-08-2025,Electronics,Laptop,10,"1,499",15,0,UPI,delivered,2,Email
+ORD1468,C146,Sneha Joshi ,Male,-4,North, Mumbai,"Apr 14,2025",Sports,Cricket Bat,1,4500 INR,15,-500,Cash,Returned,4,
+ORD1469,C060,Rahul Sharma,F,21,East,Lucknow,09/06/25,Groceries,Cooking Oil,1,4500 INR,-5,12000,UPI,DELIVERED,,Email
+ORD1470,C006,Amit Singh,M,45,West,Lucknow,08/18/25,Sports,Football,10,7999,120,5000,upi,Cancelled,2,
+ORD1471,C214,Karan Mehta,Female,31,Nrth,Jaipur,05/07/26,Beauty,Perfume,3,2500,-5,-500,UPI,Returned,2,Facebook
+ORD1472,C078,Neha Gupta,male,,North,Delhi,04/28/26,Fashion,T-Shirt,10,₹999,-5,2500,Card,DELIVERED,,Facebook
+ORD1473,C159,Neha Gupta,Male,,Nrth,,2025-08-09,Electrnics,Headphones,1,₹999,120,2500,Card,DELIVERED,1,
+ORD1474,C238,Vikram Das,Female,25,north, Mumbai,2025-12-28,Fashon,T-Shirt,50,7999,5,30000,Wallet,Delivered,5,Instagram
+ORD1475,C182,Vikram Das,F,150,north,Ahmedabad ,"Mar 22,2025",Electrnics,Headphones,2,"1,499",120,-500,Card,DELIVERED,2,Instagram
+ORD1476,C088,Riya Shah,F,31,north,Jaipur,03/04/26,Fashion,Shoes,-1,₹999,15,2500,Cash,DELIVERED,,Facebook
+ORD1477,C106,Sneha Joshi ,Female,,south,Delhi,02/15/26,Electrnics,Headphones,-1,"1,499",10,5000,upi,Delivered,,
+ORD1478,C112,Rahul Sharma,Female,21,NORTH,Delhi,31-01-2026,Electronic,Laptop,0,2500,-5,-500,Wallet,DELIVERED,4,Email
+ORD1479,C231,Amit Singh,FEMALE,0,West,Pune,"Feb 28,2026",Groceries,Cooking Oil,0,2500,0,12000,Wallet,Cancelled,,Email
+ORD1480,C100,Amit Singh,F,,South,Pune,"Jan 19,2025",Beauty,Perfume,4,2500,5,0,Wallet,Cancelled,3,
+ORD1481,C186,Sneha Joshi,F,25,North,Lucknow,"May 04,2025",Beauty,Face Wash,1,₹999,20%,2500,Wallet,DELIVERED,1,Instagram
+ORD1482,C061,Neha Gupta,M,60,South,Ahmedabad ,"Aug 21,2025",Electronic,Smartphone,5,7999,0,-500,Cash,Cancelled,,Facebook
+ORD1483,C117,Priya Patel,male,0,East, Mumbai,"Feb 26,2026",Electronic,Smartphone,50,7999,15,0,UPI,Returned,2,Email
+ORD1484,C224,Riya Shah,F,150,East,,10/29/25,Fashion,Shoes,2,2500,-5,-500,Cash,Returned,2,Facebook
+ORD1485,C178,Neha Gupta,Female,150,North,Ahmedabad ,2026-05-11,Groceries,Rice,10,4500 INR,10,12000,Card,Delivered,5,Email
+ORD1486,C031,Karan Mehta ,M,-4,South,Jaipur,21-01-2025,Electronic,Laptop,0,7999,20%,5000,UPI,delivered,2,
+ORD1487,C001,Priya Patel,F,-4,north,Delhi,04/04/25,Home,Chair,5,2500,15,5000,Cash,Cancelled,3,
+ORD1488,C130,Vikram Das,Female,150,NORTH,Lucknow,26-01-2026,Sports,Cricket Bat,-1,4500 INR,10,0,Wallet,Cancelled,4,Email
+ORD1489,C189,Riya Shah,FEMALE,25,NORTH,Delhi,05/06/26,Fashion,Shoes,0,7999,0,12000,Card,Cancelled,,Instagram
+ORD1490,C193,Vikram Das,F,21,north,Ahmedabad ,06-05-2026,Groceries,Rice,4,7999,0,0,Card,delivered,2,
+ORD1491,C126,Rahul Sharma,M,0,NORTH,Bhopal,2025-07-25,Sports,Football,50,7999,120,0,Wallet,DELIVERED,4,Google Ads
+ORD1492,C047,Riya Shah,Male,31,South,Bhopal,27-05-2025,Electronic,Laptop,2,7999,10,-500,upi,Delivered,5,Google Ads
+ORD1493,C037,Sneha Joshi,M,60,East, Mumbai,"Feb 20,2025",Electrnics,Laptop,1,2500,-5,0,upi,delivered,5,
+ORD1494,C069,Rahul Sharma,M,150,west,Bhopal,2026-05-02,Fashion,Shoes,50,7999,-5,0,Cash,Delivered,4,Facebook
+ORD1495,C078,Sneha Joshi ,Female,25,west,Pune,07-05-2025,Electronics,Smartphone,50,7999,5,30000,upi,DELIVERED,5,Facebook
+ORD1496,C209,Vikram Das,F,60,NORTH,Delhi,2025-01-22,Fashion,Jeans,-1,7999,,0,Cash,DELIVERED,5,Google Ads
+ORD1497,C190,Priya Patel,M,25,East, Mumbai,24-01-2025,Home,Mixer,4,7999,20%,30000,upi,Cancelled,3,Email
+ORD1498,C193,Vikram Das,M,45,south,Lucknow,"Nov 22,2025",Fashion,Jeans,50,2500,120,999,Cash,Cancelled,3,Instagram
+ORD1499,C173,Amit Singh,Female,,West,Bhopal,2025-01-03,Electrnics,Headphones,1,7999,,12000,UPI,Delivered,5,Instagram
+ORD1500,C215,Rahul Sharma,Male,150,south,Pune,18-07-2025,Sports,Football,0,4500 INR,120,5000,UPI,delivered,,Instagram
+ORD1501,C207,Neha Gupta,male,150,south,Delhi,"Feb 22,2026",Fashon,Jeans,0,"1,499",5,2500,Cash,Cancelled,2,Instagram
+ORD1502,C044,Neha Gupta,FEMALE,31,north,Ahmedabad ,10/19/25,Fashion,Jeans,-1,₹999,20%,-500,UPI,delivered,3,
+ORD1503,C175,Vikram Das,Male,0,North,Lucknow,"May 12,2026",Fashion,Jeans,5,"1,499",0,5000,Cash,DELIVERED,1,
+ORD1504,C013,Riya Shah ,Female,,West,Lucknow,29-03-2026,Sports,Cricket Bat,0,7999,0,0,Cash,delivered,3,Instagram
+ORD1505,C051,Amit Singh,M,60,north, Mumbai,15-04-2026,Electronics,Headphones,4,4500 INR,5,0,Cash,Returned,1,
+ORD1506,C214,Rahul Sharma,M,,Nrth, Mumbai,"May 03,2025",Beauty,Perfume,4,₹999,,30000,Wallet,Cancelled,4,Instagram
+ORD1507,C228,Priya Patel,male,21,West,Delhi,"Jul 13,2025",Sports,Football,2,₹999,0,2500,Wallet,Returned,1,Instagram
+ORD1508,C159,Sneha Joshi,male,21,West,Bhopal,2025-07-25,Electronics,Headphones,1,2500,-5,5000,Cash,Cancelled,5,Instagram
+ORD1509,C028,Priya Patel,Male,25,Nrth,Ahmedabad ,28-10-2025,Beauty,Face Wash,10,7999,120,-500,Wallet,DELIVERED,3,Email
+ORD1510,C016,Amit Singh,M,0,west,Lucknow,2026-02-13,Sports,Cricket Bat,3,"1,499",10,2500,Wallet,Cancelled,2,Facebook
+ORD1511,,Amit Singh,Male,45,west,Delhi,2026-05-12,Sports,Cricket Bat,0,2500,120,5000,Card,delivered,2,Facebook
+ORD1512,C219,Karan Mehta,F,60,East,Lucknow,"Nov 04,2025",Electronic,Smartphone,4,4500 INR,,999,UPI,Returned,1,Email
+ORD1513,C062,Vikram Das ,FEMALE,-4,East,Pune,16-11-2025,Fashion,T-Shirt,4,"1,499",,5000,upi,Delivered,3,Instagram
+ORD1514,C113,Neha Gupta,FEMALE,-4,North,Delhi,"Mar 14,2025",Electronic,Smartphone,1,7999,5,999,upi,DELIVERED,2,Facebook
+ORD1515,C006,Amit Singh,M,25,North,Ahmedabad ,02-04-2025,Fashon,Jeans,3,2500,15,5000,UPI,DELIVERED,2,Google Ads
+ORD1516,C225,Priya Patel,Male,31,NORTH,Pune,04/27/26,Sports,Football,0,2500,10,999,Wallet,Returned,,Google Ads
+ORD1517,C203,Amit Singh,M,45,North,Jaipur,"Mar 14,2026",Beauty,Perfume,4,₹999,15,30000,upi,Cancelled,5,Email
+ORD1518,C193,Karan Mehta,Female,,West,Ahmedabad ,03/27/25,Fashion,Jeans,2,4500 INR,5,2500,Card,Cancelled,,Email
+ORD1519,C054,Neha Gupta,male,150,Nrth,Bhopal,2025-11-23,Sports,Cricket Bat,5,7999,-5,999,Card,Returned,4,
+ORD1520,C076,Vikram Das,F,-4,Nrth,Delhi,2025-03-10,Electrnics,Smartphone,5,7999,5,5000,Wallet,Cancelled,3,Email
+ORD1521,C082,Riya Shah,Female,21,NORTH,,02/16/26,Sports,Cricket Bat,-1,4500 INR,120,999,Card,Delivered,3,Instagram
+ORD1522,C238,Neha Gupta ,Male,25,north,Lucknow,"Feb 07,2026",Fashon,Jeans,50,7999,5,0,Wallet,delivered,3,Facebook
+ORD1523,C219,Riya Shah,Male,60,South,Lucknow,28-12-2025,Beauty,Perfume,5,2500,15,30000,Cash,Returned,5,Instagram
+ORD1524,C122,Neha Gupta,F,,West,,06-01-2026,Sports,Football,-1,"1,499",15,2500,UPI,DELIVERED,2,Email
+ORD1525,C148,Amit Singh,M,21,West,Lucknow,11-07-2025,Home,Chair,10,4500 INR,0,2500,upi,Returned,4,Email
+ORD1526,C237,Amit Singh,male,-4,East,Bhopal,2025-10-18,Groceries,Cooking Oil,0,7999,0,999,Cash,Delivered,5,Email
+ORD1527,C024,Amit Singh,Male,,NORTH,Delhi,"Nov 24,2025",Fashion,Shoes,2,2500,,30000,Wallet,Returned,1,Facebook
+ORD1528,C169,Priya Patel,Female,21,south,Delhi,"Apr 30,2025",Fashion,T-Shirt,-1,2500,15,999,Card,Returned,4,Facebook
+ORD1529,C100,Neha Gupta,male,45,South,Bhopal,2026-01-16,Electronic,Laptop,50,4500 INR,,30000,Cash,delivered,5,
+ORD1530,C002,Amit Singh,Female,25,East,Pune,22-05-2025,Fashon,Jeans,4,7999,,12000,Card,Cancelled,4,Email
+ORD1531,C101,Amit Singh ,Female,45,NORTH,Bhopal,"Jun 27,2025",Sports,Football,2,2500,,5000,Cash,delivered,,
+ORD1532,C171,Priya Patel,FEMALE,45,West,Bhopal,"May 21,2025",Electronic,Smartphone,1,"1,499",10,30000,Wallet,Delivered,3,Instagram
+ORD1533,C054,Rahul Sharma,Female,21,north,,"Mar 26,2025",Electronic,Headphones,0,4500 INR,,5000,Card,Returned,2,Email
+ORD1534,C125,Vikram Das,Male,25,west,Pune,06/17/25,Electronics,Laptop,5,₹999,10,-500,Cash,delivered,4,Google Ads
+ORD1535,C032,Sneha Joshi,male,25,North,Jaipur,"Apr 01,2025",Electrnics,Laptop,1,7999,5,999,Cash,DELIVERED,2,Facebook
+ORD1536,C215,Priya Patel,Female,60,West,Delhi,2025-12-23,Electronics,Headphones,50,"1,499",,12000,UPI,Delivered,4,Facebook
+ORD1537,C008,Rahul Sharma,M,45,north,Pune,01/09/25,Fashion,Shoes,4,"1,499",5,0,upi,delivered,1,Email
+ORD1538,C240,Sneha Joshi,Female,25,Nrth,Pune,16-11-2025,Groceries,Rice,0,2500,15,0,Card,DELIVERED,2,Instagram
+ORD1539,C017,Riya Shah,FEMALE,-4,North, Mumbai,23-08-2025,Home,Mixer,1,4500 INR,15,999,Cash,DELIVERED,5,Email
+ORD1540,C154,Karan Mehta ,FEMALE,0,NORTH,Lucknow,2025-05-09,Electronic,Headphones,50,7999,10,999,Card,Returned,1,Google Ads
+ORD1541,C060,Rahul Sharma,F,25,South,Pune,2025-09-15,Electronics,Headphones,10,4500 INR,15,-500,Cash,delivered,5,Instagram
+ORD1542,C097,Neha Gupta,FEMALE,21,Nrth,,14-04-2025,Electronics,Laptop,0,4500 INR,20%,-500,Card,delivered,3,Google Ads
+ORD1543,C088,Neha Gupta,male,,North,Pune,"Apr 28,2025",Electronics,Headphones,-1,2500,0,30000,upi,Cancelled,4,
+ORD1544,C018,Neha Gupta,Male,31,Nrth,Ahmedabad ,03/22/26,Beauty,Face Wash,10,₹999,5,0,upi,Cancelled,5,Facebook
+ORD1545,C185,Neha Gupta,male,0,NORTH,Pune,09-06-2025,Fashion,Jeans,2,4500 INR,,2500,Card,Cancelled,4,Facebook
+ORD1546,C121,Vikram Das,Female,,East,Ahmedabad ,13-07-2025,Fashon,Shoes,2,2500,-5,30000,Cash,Delivered,4,Email
+ORD1547,C119,Riya Shah,Female,60,East,,05/12/25,Electronic,Smartphone,50,"1,499",10,0,Card,delivered,,Email
+ORD1548,C126,Sneha Joshi,Female,0,south,Bhopal,"Mar 18,2026",Fashion,T-Shirt,4,₹999,0,5000,Card,Cancelled,1,Email
+ORD1549,C246,Riya Shah ,FEMALE,-4,west,,04/10/25,Electronics,Laptop,-1,7999,10,-500,Card,Delivered,,Email
+ORD1550,C162,Rahul Sharma,FEMALE,31,South,,"Apr 17,2026",Home,Chair,4,4500 INR,0,-500,upi,DELIVERED,2,
+ORD1551,C133,Neha Gupta,Female,31,East,Jaipur,2025-07-23,Electrnics,Laptop,2,₹999,-5,-500,Card,Cancelled,5,Email
+ORD1552,C209,Amit Singh,M,45,East,Jaipur,"Nov 22,2025",Fashon,Jeans,-1,₹999,5,0,upi,Returned,1,Instagram
+ORD1553,C188,Sneha Joshi,male,31,south,Ahmedabad ,"Dec 02,2025",Electronic,Headphones,-1,7999,-5,-500,upi,delivered,4,Facebook
+ORD1554,C016,Amit Singh,male,60,East,,06-04-2025,Groceries,Rice,10,7999,15,-500,Wallet,Delivered,,Facebook
+ORD1555,C088,Rahul Sharma,F,45,West,,2025-05-22,Electronic,Smartphone,2,4500 INR,5,-500,UPI,Delivered,1,Google Ads
+ORD1556,C097,Riya Shah,Female,150,south,Bhopal,2025-09-25,Electronics,Headphones,1,₹999,15,2500,Card,DELIVERED,3,Facebook
+ORD1557,C224,Karan Mehta,Male,21,West,Bhopal,"May 15,2026",Beauty,Perfume,-1,7999,0,-500,upi,Delivered,5,Instagram
+ORD1558,C132,Sneha Joshi ,FEMALE,45,North,Lucknow,11/13/25,Groceries,Cooking Oil,4,2500,,0,Card,Delivered,,Google Ads
+ORD1559,C241,Vikram Das,FEMALE,25,East,Jaipur,06/28/25,Sports,Football,10,4500 INR,5,12000,upi,delivered,5,
+ORD1560,C044,Vikram Das,Male,150,west,Pune,06/04/25,Groceries,Rice,3,4500 INR,5,999,upi,delivered,,Instagram
+ORD1561,C197,Riya Shah,male,60,West, Mumbai,04/08/26,Electronic,Smartphone,1,"1,499",120,-500,upi,Cancelled,,Email
+ORD1562,C097,Sneha Joshi,FEMALE,,East,Pune,"Nov 26,2025",Electronic,Headphones,0,"1,499",5,999,Card,Delivered,3,Instagram
+ORD1563,C147,Karan Mehta,male,-4,East,Delhi,2026-01-17,Electronic,Laptop,0,7999,15,2500,UPI,Cancelled,5,Facebook
+ORD1564,C028,Sneha Joshi,Male,,West,Lucknow,24-09-2025,Home,Mixer,0,2500,10,999,Card,delivered,4,Email
+ORD1565,C080,Priya Patel,M,150,Nrth,,"Nov 03,2025",Electrnics,Headphones,5,"1,499",0,2500,Cash,Delivered,3,Facebook
+ORD1566,C187,Sneha Joshi,M,31,North,Bhopal,03/15/26,Fashion,Jeans,4,₹999,10,2500,Cash,Returned,3,Email
+ORD1567,C180,Sneha Joshi ,Male,31,south,Delhi,23-12-2025,Home,Chair,50,2500,20%,30000,Card,Returned,,Facebook
+ORD1568,C206,Neha Gupta,FEMALE,21,south, Mumbai,18-04-2025,Electrnics,Smartphone,10,2500,10,-500,upi,Returned,4,Facebook
+ORD1569,C031,Karan Mehta,F,0,NORTH,Bhopal,2026-04-29,Electronics,Laptop,0,4500 INR,10,999,UPI,Delivered,2,Email
+ORD1570,C222,Sneha Joshi,M,150,south,Delhi,02/03/26,Sports,Cricket Bat,3,4500 INR,5,0,UPI,Delivered,1,Email
+ORD1571,C204,Amit Singh,Female,150,East,Jaipur,2025-05-21,Groceries,Rice,1,7999,,12000,upi,Delivered,3,Instagram
+ORD1572,C017,Priya Patel,male,25,NORTH,Ahmedabad ,10/12/25,Groceries,Rice,-1,₹999,-5,0,Wallet,Returned,3,Instagram
+ORD1573,C218,Rahul Sharma,Male,25,west,Jaipur,"Oct 15,2025",Electronics,Laptop,4,"1,499",5,2500,Wallet,delivered,4,Instagram
+ORD1574,C036,Vikram Das,FEMALE,-4,west,Lucknow,12/04/25,Fashion,Shoes,1,7999,20%,12000,Wallet,Cancelled,2,Instagram
+ORD1575,C246,Amit Singh,F,,Nrth,Lucknow,03-06-2025,Electronics,Laptop,1,"1,499",10,2500,upi,Cancelled,4,Instagram
+ORD1576,C022,Riya Shah ,FEMALE,0,NORTH,Pune,07/24/25,Groceries,Cooking Oil,5,4500 INR,10,0,Card,delivered,,Google Ads
+ORD1577,C098,Rahul Sharma,F,45,north,Jaipur,02/08/26,Groceries,Rice,-1,"1,499",120,0,Wallet,Delivered,,
+ORD1578,C200,Riya Shah,male,45,South,Delhi,"Apr 11,2026",Home,Chair,0,₹999,120,0,Cash,delivered,4,Instagram
+ORD1579,C180,Riya Shah,F,60,north,Delhi,"Feb 18,2025",Electronic,Laptop,50,2500,,999,Card,Returned,2,Google Ads
+ORD1580,C176,Amit Singh,FEMALE,31,NORTH,Bhopal,2025-05-13,Groceries,Cooking Oil,10,7999,10,12000,Card,Delivered,,Google Ads
+ORD1581,C205,Vikram Das,F,60,South,Bhopal,"Aug 13,2025",Fashion,Jeans,-1,4500 INR,10,12000,upi,DELIVERED,,Instagram
+ORD1582,C242,Priya Patel,male,21,north,Jaipur,09-02-2025,Fashon,Shoes,0,₹999,5,12000,Cash,Delivered,4,
+ORD1583,C158,Neha Gupta,FEMALE,21,East,Lucknow,2025-07-27,Electrnics,Smartphone,10,7999,5,999,Wallet,Cancelled,1,
+ORD1584,,Amit Singh,F,-4,North,Bhopal,"Feb 08,2025",Sports,Football,50,"1,499",10,5000,Cash,delivered,3,Instagram
+ORD1585,C076,Riya Shah ,male,21,East,Pune,06/03/25,Beauty,Face Wash,50,₹999,20%,2500,Wallet,Delivered,4,
+ORD1586,C091,Priya Patel,Male,-4,NORTH,Bhopal,"Jun 18,2025",Sports,Football,0,₹999,,2500,UPI,Delivered,4,Email
+ORD1587,C234,Vikram Das,Male,31,South,Pune,2025-07-30,Fashion,T-Shirt,50,7999,10,5000,Cash,DELIVERED,3,Google Ads
+ORD1588,C042,Amit Singh,M,0,North,Lucknow,08/13/25,Home,Chair,50,2500,5,30000,upi,Delivered,2,Google Ads
+ORD1589,C042,Neha Gupta,Female,60,north,Bhopal,2026-04-07,Electronics,Laptop,-1,4500 INR,120,5000,Wallet,Returned,,Facebook
+ORD1590,C203,Rahul Sharma,male,31,south,Delhi,2025-02-26,Beauty,Perfume,50,4500 INR,10,30000,upi,Delivered,,Google Ads
+ORD1591,C022,Sneha Joshi,male,31,west,Ahmedabad ,05/25/25,Home,Chair,-1,4500 INR,20%,999,Card,Delivered,3,Facebook
+ORD1592,C059,Priya Patel,male,0,North,Jaipur,07-04-2025,Home,Chair,10,₹999,10,999,upi,Returned,1,
+ORD1593,C180,Neha Gupta,male,-4,East,,"Sep 26,2025",Fashion,T-Shirt,1,4500 INR,-5,0,Wallet,Returned,,Instagram
+ORD1594,C183,Sneha Joshi ,male,-4,North,Ahmedabad ,"Apr 28,2026",Fashon,T-Shirt,5,2500,20%,0,UPI,Delivered,,Google Ads
+ORD1595,C065,Vikram Das,M,-4,South, Mumbai,09-08-2025,Fashion,Shoes,10,2500,5,0,UPI,Cancelled,2,Google Ads
+ORD1596,C054,Sneha Joshi,Male,25,NORTH, Mumbai,"May 02,2025",Beauty,Perfume,50,7999,120,0,Wallet,delivered,2,Email
+ORD1597,C195,Neha Gupta,F,31,North,Ahmedabad ,06/04/25,Electronic,Laptop,50,7999,120,999,Cash,Cancelled,,Google Ads
+ORD1598,C018,Vikram Das,Female,,west,Delhi,04/12/26,Groceries,Cooking Oil,0,4500 INR,5,999,Wallet,DELIVERED,,Facebook
+ORD1599,C043,Vikram Das,F,0,west,Bhopal,2025-09-11,Fashon,T-Shirt,1,"1,499",-5,5000,Wallet,DELIVERED,2,Facebook
+ORD1600,C129,Riya Shah,M,45,South,Jaipur,03/27/26,Electronics,Laptop,4,7999,0,12000,UPI,delivered,2,Instagram
+ORD1601,C238,Amit Singh,M,21,Nrth,Pune,"Apr 28,2026",Groceries,Rice,5,₹999,10,12000,UPI,Delivered,,Google Ads
+ORD1602,C105,Riya Shah,M,21,North,Lucknow,05-01-2026,Beauty,Perfume,2,7999,20%,999,Card,delivered,3,Instagram
+ORD1603,C057,Karan Mehta ,M,45,East,Ahmedabad ,02/23/26,Groceries,Rice,-1,2500,15,5000,upi,Returned,3,Facebook
+ORD1604,C049,Vikram Das,FEMALE,31,South,Delhi,05-04-2025,Sports,Football,10,"1,499",,2500,upi,delivered,4,
+ORD1605,C233,Sneha Joshi,Male,,NORTH,Delhi,05/06/25,Fashion,T-Shirt,3,₹999,-5,12000,UPI,Returned,4,Instagram
+ORD1606,C069,Amit Singh,FEMALE,21,North, Mumbai,2026-01-30,Electronic,Laptop,1,"1,499",15,12000,Card,Delivered,2,Facebook
+ORD1607,C063,Rahul Sharma,F,60,west, Mumbai,03-09-2025,Sports,Cricket Bat,3,2500,120,0,UPI,Delivered,5,Google Ads
+ORD1608,C007,Neha Gupta,Female,0,NORTH,Lucknow,13-04-2026,Electronic,Headphones,-1,"1,499",0,-500,Card,delivered,,Email
+ORD1609,C092,Priya Patel,F,-4,north,Lucknow,"Feb 22,2025",Electronic,Smartphone,3,₹999,15,0,UPI,Cancelled,2,Facebook
+ORD1610,C160,Riya Shah,M,25,South,,"Apr 03,2026",Home,Mixer,3,4500 INR,10,-500,Card,DELIVERED,,Instagram
+ORD1611,C185,Vikram Das,Male,25,East,Jaipur,07/19/25,Electronics,Laptop,3,2500,10,999,UPI,DELIVERED,2,Facebook
+ORD1612,C155,Karan Mehta ,male,45,East,Bhopal,09/04/25,Home,Mixer,0,4500 INR,-5,12000,Cash,Cancelled,5,Email
+ORD1613,C180,Priya Patel,male,-4,North,Pune,27-09-2025,Groceries,Rice,-1,₹999,-5,30000,UPI,DELIVERED,5,Email
+ORD1614,C076,Vikram Das,male,,East,Pune,11-03-2026,Electrnics,Laptop,1,2500,120,999,upi,Delivered,,Facebook
+ORD1615,C096,Rahul Sharma,FEMALE,25,north,,12/23/25,Electronic,Headphones,3,4500 INR,0,30000,Wallet,delivered,1,Facebook
+ORD1616,C039,Amit Singh,Female,31,west,Jaipur,01/07/25,Beauty,Face Wash,2,"1,499",5,5000,Cash,DELIVERED,4,Instagram
+ORD1617,C129,Amit Singh,Male,0,East,,06-11-2025,Fashon,T-Shirt,3,₹999,0,12000,Card,Cancelled,5,Google Ads
+ORD1618,C244,Amit Singh,FEMALE,45,East,Delhi,09/25/25,Fashion,Shoes,3,2500,5,999,Cash,delivered,,
+ORD1619,C212,Sneha Joshi,male,21,south,Bhopal,12/01/25,Electronic,Headphones,10,4500 INR,120,999,Card,Delivered,1,Instagram
+ORD1620,C017,Neha Gupta,F,21,South,Pune,2025-03-25,Beauty,Perfume,1,"1,499",20%,12000,upi,Delivered,2,Google Ads
+ORD1621,C081,Priya Patel ,M,21,south,Jaipur,2025-01-24,Electronic,Headphones,1,7999,,5000,Wallet,delivered,3,Email
+ORD1622,C129,Amit Singh,Male,0,West,Delhi,2026-04-05,Beauty,Face Wash,2,2500,-5,2500,upi,delivered,,Email
+ORD1623,C197,Amit Singh,F,,west,Lucknow,18-02-2026,Electronic,Headphones,2,"1,499",15,5000,upi,DELIVERED,3,Google Ads
+ORD1624,C246,Amit Singh,F,150,north,Delhi,2025-11-09,Home,Chair,-1,"1,499",15,999,Card,Cancelled,1,Email
+ORD1625,C072,Karan Mehta,M,25,north,Ahmedabad ,2025-03-24,Electronic,Smartphone,0,"1,499",20%,-500,Cash,DELIVERED,4,Google Ads
+ORD1626,C220,Riya Shah,Female,0,NORTH,,"Jan 21,2025",Sports,Football,2,7999,,2500,Wallet,Cancelled,3,Google Ads
+ORD1627,C159,Rahul Sharma,FEMALE,45,west,Delhi,2025-05-15,Electronic,Headphones,-1,7999,,999,UPI,DELIVERED,4,Facebook
+ORD1628,C090,Vikram Das,Female,,West, Mumbai,2025-12-09,Home,Chair,4,4500 INR,,0,upi,Delivered,4,Email
+ORD1629,C055,Vikram Das,Male,60,West,Delhi,06/25/25,Fashion,Shoes,0,₹999,120,12000,upi,Returned,2,Facebook
+ORD1630,C122,Neha Gupta ,Male,45,North,Bhopal,02/09/26,Beauty,Face Wash,-1,₹999,120,2500,Card,delivered,1,Facebook
+ORD1631,C224,Sneha Joshi,F,45,South,Ahmedabad ,03/24/26,Electronic,Smartphone,-1,₹999,20%,30000,UPI,Delivered,4,Google Ads
+ORD1632,C138,Amit Singh,FEMALE,0,south,Bhopal,09/04/25,Fashon,T-Shirt,4,2500,-5,30000,UPI,Cancelled,5,Facebook
+ORD1633,C230,Vikram Das,male,150,south, Mumbai,08-01-2025,Electronic,Headphones,3,2500,120,30000,Cash,DELIVERED,5,Instagram
+ORD1634,C191,Neha Gupta,Female,,NORTH,Bhopal,19-01-2025,Sports,Football,10,7999,5,999,Card,delivered,2,
+ORD1635,C129,Priya Patel,FEMALE,150,West,Bhopal,"Apr 05,2026",Electronics,Smartphone,0,₹999,20%,5000,Card,DELIVERED,5,Email
+ORD1636,C046,Amit Singh,F,0,East,Jaipur,"Aug 08,2025",Groceries,Cooking Oil,2,"1,499",,30000,Cash,DELIVERED,,
+ORD1637,C027,Vikram Das,FEMALE,,north,,11/12/25,Electronic,Laptop,2,₹999,0,12000,Wallet,Delivered,,Google Ads
+ORD1638,C220,Vikram Das,Male,-4,West,Bhopal,28-02-2025,Home,Chair,4,4500 INR,-5,30000,Cash,Delivered,3,Facebook
+ORD1639,C173,Neha Gupta ,Male,0,North,Delhi,03/06/26,Groceries,Cooking Oil,5,2500,20%,0,upi,DELIVERED,5,
+ORD1640,C050,Sneha Joshi,Male,0,NORTH,Bhopal,05/04/25,Beauty,Perfume,3,7999,-5,-500,upi,Returned,3,
+ORD1641,C162,Sneha Joshi,FEMALE,60,west,Ahmedabad ,2025-09-16,Electrnics,Smartphone,4,₹999,10,2500,upi,Delivered,1,Instagram
+ORD1642,C007,Amit Singh,Female,-4,NORTH,Pune,10/20/25,Home,Chair,3,₹999,5,-500,upi,DELIVERED,2,
+ORD1643,C240,Amit Singh,FEMALE,21,north, Mumbai,2025-05-21,Fashion,Jeans,-1,2500,0,5000,Wallet,Delivered,1,Facebook
+ORD1644,C234,Neha Gupta,Female,25,West,Delhi,"Sep 11,2025",Fashon,Shoes,3,₹999,5,5000,UPI,Returned,,Instagram
+ORD1645,C207,Amit Singh,male,60,North,Ahmedabad ,11/21/25,Fashion,Jeans,-1,4500 INR,120,-500,Wallet,Cancelled,1,Instagram
+ORD1646,C238,Priya Patel,male,21,west,Delhi,"Mar 23,2025",Beauty,Perfume,10,7999,0,12000,Wallet,delivered,2,Google Ads
+ORD1647,C187,Amit Singh,M,60,West,Pune,2025-04-23,Electronic,Laptop,1,2500,10,0,Card,Cancelled,,Google Ads
+ORD1648,C065,Amit Singh ,male,60,East, Mumbai,18-04-2026,Sports,Cricket Bat,-1,7999,-5,12000,Wallet,DELIVERED,2,Facebook
+ORD1649,C160,Priya Patel,F,0,East,Pune,"Feb 22,2026",Sports,Cricket Bat,10,4500 INR,20%,12000,Card,DELIVERED,,Instagram
+ORD1650,C076,Karan Mehta,Female,21,north,Ahmedabad ,10/28/25,Sports,Football,1,7999,20%,30000,Card,Returned,2,Google Ads
+ORD1651,C032,Rahul Sharma,M,21,south,Pune,"Mar 16,2025",Fashion,T-Shirt,4,2500,120,5000,Wallet,DELIVERED,2,
+ORD1652,C027,Riya Shah,FEMALE,25,East,Bhopal,27-09-2025,Electronic,Smartphone,5,7999,15,2500,Card,delivered,2,Instagram
+ORD1653,C116,Amit Singh,F,-4,East,Pune,2025-03-03,Sports,Cricket Bat,1,2500,-5,12000,UPI,DELIVERED,1,
+ORD1654,C087,Rahul Sharma,Male,150,north,Bhopal,2025-01-19,Electronics,Smartphone,5,"1,499",-5,-500,Card,DELIVERED,3,Google Ads
+ORD1655,C101,Riya Shah,FEMALE,150,West, Mumbai,2025-11-10,Home,Chair,50,2500,,30000,Card,Cancelled,1,Instagram
+ORD1656,C058,Amit Singh,Male,45,south,Delhi,06/15/25,Fashion,T-Shirt,1,"1,499",5,-500,UPI,DELIVERED,1,Instagram
+ORD1657,,Riya Shah ,FEMALE,31,NORTH,,12/19/25,Electronics,Smartphone,2,2500,120,0,upi,DELIVERED,2,
+ORD1658,C170,Vikram Das,M,-4,West,Pune,10/23/25,Home,Mixer,2,7999,15,0,Card,DELIVERED,,Instagram
+ORD1659,C016,Neha Gupta,Male,45,West,Bhopal,05/13/26,Beauty,Face Wash,4,₹999,5,999,Cash,Delivered,3,Facebook
+ORD1660,C235,Amit Singh,male,-4,East,,2026-03-11,Groceries,Cooking Oil,5,4500 INR,10,30000,Wallet,Cancelled,2,Email
+ORD1661,C244,Priya Patel,male,150,north, Mumbai,"Dec 18,2025",Fashion,T-Shirt,5,4500 INR,10,999,UPI,Returned,2,Google Ads
+ORD1662,C238,Priya Patel,M,0,Nrth,Ahmedabad ,2025-05-16,Electronics,Smartphone,50,4500 INR,120,5000,Wallet,Returned,5,Google Ads
+ORD1663,C188,Sneha Joshi,male,60,Nrth,Bhopal,01/26/25,Electronics,Smartphone,5,2500,5,999,Wallet,DELIVERED,5,
+ORD1664,C057,Priya Patel,Male,21,South,Pune,2026-05-06,Sports,Cricket Bat,2,₹999,15,0,Wallet,Delivered,3,Facebook
+ORD1665,C127,Neha Gupta,male,45,south,Jaipur,"Jan 11,2026",Home,Mixer,-1,₹999,15,-500,Wallet,DELIVERED,,Instagram
+ORD1666,C219,Neha Gupta ,male,-4,north,Ahmedabad ,"Jan 14,2026",Electronic,Laptop,50,7999,,999,Card,Returned,2,Instagram
+ORD1667,C226,Priya Patel,male,21,south,,"May 14,2026",Sports,Cricket Bat,0,₹999,10,12000,UPI,Returned,2,Email
+ORD1668,C135,Amit Singh,male,25,north,Jaipur,04-03-2026,Electronic,Laptop,1,7999,20%,30000,Card,Returned,4,Google Ads
+ORD1669,C212,Karan Mehta,M,-4,west,,2025-08-23,Groceries,Cooking Oil,10,2500,120,0,Card,Cancelled,,Instagram
+ORD1670,C063,Sneha Joshi,M,45,north,Pune,2025-09-12,Electrnics,Smartphone,4,"1,499",120,5000,UPI,DELIVERED,,
+ORD1671,C242,Riya Shah,M,45,North,Lucknow,07/20/25,Sports,Football,5,2500,120,30000,Wallet,Delivered,4,Email
+ORD1672,C120,Amit Singh,F,60,west,Ahmedabad ,20-04-2026,Beauty,Perfume,2,₹999,,2500,Cash,DELIVERED,1,Google Ads
+ORD1673,C014,Vikram Das,M,21,East,Lucknow,2026-02-27,Electronics,Smartphone,1,"1,499",20%,-500,UPI,Delivered,3,Facebook
+ORD1674,C183,Riya Shah,male,45,East, Mumbai,2026-05-04,Beauty,Perfume,50,7999,10,2500,upi,Delivered,4,Google Ads
+ORD1675,C229,Riya Shah ,M,60,NORTH,Bhopal,2026-05-11,Fashion,Jeans,-1,4500 INR,-5,-500,Card,Cancelled,2,Facebook
+ORD1676,C022,Riya Shah,F,150,west,Ahmedabad ,"Jun 04,2025",Fashon,T-Shirt,-1,7999,15,5000,Cash,Delivered,2,
+ORD1677,C120,Sneha Joshi,Female,150,North,Delhi,07/01/25,Sports,Cricket Bat,50,2500,,30000,Cash,Delivered,2,
+ORD1678,C014,Sneha Joshi,male,0,North,,"Nov 14,2025",Fashon,T-Shirt,50,2500,10,30000,Wallet,Returned,1,Instagram
+ORD1679,C145,Vikram Das,FEMALE,-4,North, Mumbai,"Feb 25,2026",Electronics,Smartphone,2,2500,5,-500,Wallet,Cancelled,,Instagram
+ORD1680,C230,Amit Singh,M,60,North,,11-03-2025,Fashion,Jeans,3,7999,,12000,upi,Delivered,1,Instagram
+ORD1681,C027,Vikram Das,Male,,West,Bhopal,07-05-2025,Electrnics,Headphones,2,7999,5,0,UPI,DELIVERED,4,Email
+ORD1682,C111,Amit Singh,FEMALE,21,NORTH,Ahmedabad ,2026-03-16,Electrnics,Laptop,50,2500,,30000,upi,delivered,5,
+ORD1683,C246,Vikram Das,M,60,East,Bhopal,2025-12-08,Fashion,Shoes,10,2500,20%,-500,UPI,Returned,4,Email
+ORD1684,C003,Riya Shah ,Male,150,North,Lucknow,10/16/25,Electrnics,Laptop,5,4500 INR,5,999,Cash,Returned,3,Instagram
+ORD1685,C132,Priya Patel,male,31,south,Lucknow,06/28/25,Electrnics,Smartphone,50,7999,15,5000,upi,DELIVERED,,Google Ads
+ORD1686,C148,Riya Shah,male,-4,south,Bhopal,07-11-2025,Home,Chair,10,4500 INR,,0,UPI,Delivered,,Facebook
+ORD1687,C198,Neha Gupta,Male,31,East,Bhopal,15-06-2025,Fashion,T-Shirt,2,4500 INR,,0,UPI,Cancelled,3,Instagram
+ORD1688,C237,Amit Singh,M,25,West,Bhopal,2025-11-07,Electronics,Headphones,2,4500 INR,120,999,Wallet,Cancelled,2,Facebook
+ORD1689,C112,Neha Gupta,Male,21,north,Pune,14-04-2025,Fashon,Shoes,10,2500,15,0,upi,Delivered,3,Email
+ORD1690,C147,Vikram Das,F,-4,south,Ahmedabad ,08-04-2025,Groceries,Rice,0,"1,499",,30000,UPI,Returned,4,Email
+ORD1691,C128,Neha Gupta,Male,,south,Delhi,2025-02-21,Electronic,Headphones,2,"1,499",20%,999,Card,DELIVERED,4,Google Ads
+ORD1692,C103,Rahul Sharma,F,25,West,Jaipur,"Mar 13,2026",Electronic,Laptop,5,₹999,15,-500,UPI,Delivered,3,Email
+ORD1693,C237,Rahul Sharma ,male,150,north,Delhi,"Apr 15,2025",Fashon,T-Shirt,0,₹999,10,2500,UPI,Returned,5,
+ORD1694,C027,Rahul Sharma,Female,,Nrth,Lucknow,2026-01-06,Electronic,Headphones,10,"1,499",20%,5000,Cash,DELIVERED,2,Instagram
+ORD1695,C142,Vikram Das,Male,0,East,Ahmedabad ,2025-12-16,Electronics,Laptop,4,7999,-5,5000,Cash,Cancelled,2,Instagram
+ORD1696,C236,Rahul Sharma,male,45,north,Delhi,06/25/25,Sports,Football,0,2500,15,999,Cash,Cancelled,5,Instagram
+ORD1697,C113,Amit Singh,M,21,south,Lucknow,30-01-2025,Electronics,Headphones,4,₹999,5,12000,upi,DELIVERED,2,
+ORD1698,C127,Karan Mehta,male,150,South,Lucknow,09-05-2025,Home,Mixer,2,₹999,5,30000,Wallet,DELIVERED,,Facebook
+ORD1699,C231,Sneha Joshi,FEMALE,150,South, Mumbai,"Jan 28,2025",Groceries,Cooking Oil,0,7999,5,999,upi,Cancelled,2,Google Ads
+ORD1700,C179,Vikram Das,FEMALE,150,north,Delhi,19-01-2025,Groceries,Rice,2,2500,10,5000,UPI,DELIVERED,3,
+ORD1701,C127,Rahul Sharma,Female,0,West,Delhi,03/14/26,Home,Mixer,2,₹999,20%,999,upi,Returned,2,Email
+ORD1702,C233,Karan Mehta ,M,45,North,Lucknow,2026-04-25,Groceries,Rice,5,₹999,120,-500,Wallet,Returned,4,Instagram
+ORD1703,C042,Sneha Joshi,Female,45,NORTH,Delhi,"Aug 06,2025",Electronic,Headphones,-1,2500,,2500,Card,Delivered,2,
+ORD1704,C169,Riya Shah,FEMALE,21,north,Jaipur,"Jul 05,2025",Fashon,Shoes,-1,₹999,20%,12000,Card,DELIVERED,2,Email
+ORD1705,C123,Neha Gupta,Female,21,north,Jaipur,"Jan 19,2025",Sports,Football,10,₹999,,12000,Wallet,DELIVERED,1,Email
+ORD1706,C162,Amit Singh,male,21,Nrth, Mumbai,07-03-2025,Electrnics,Smartphone,5,2500,,-500,UPI,delivered,,
+ORD1707,C250,Riya Shah,Male,-4,west,Delhi,"Feb 01,2025",Sports,Cricket Bat,1,7999,15,12000,upi,DELIVERED,1,Instagram
+ORD1708,C084,Karan Mehta,FEMALE,0,north,Bhopal,02-05-2025,Groceries,Cooking Oil,2,7999,5,2500,upi,Delivered,3,
+ORD1709,C160,Rahul Sharma,male,-4,North,Jaipur,"Apr 28,2026",Beauty,Perfume,-1,2500,,999,Wallet,Delivered,1,
+ORD1710,C097,Rahul Sharma,FEMALE,31,East, Mumbai,27-04-2026,Fashion,Shoes,50,7999,120,0,upi,Cancelled,5,
+ORD1711,C169,Vikram Das ,M,60,Nrth,Jaipur,11/07/25,Groceries,Cooking Oil,50,₹999,0,999,Card,delivered,3,Facebook
+ORD1712,C093,Priya Patel,M,,west, Mumbai,01/11/26,Sports,Cricket Bat,2,"1,499",,2500,Cash,Cancelled,2,Email
+ORD1713,C173,Amit Singh,F,60,South,Lucknow,02/02/26,Home,Chair,3,7999,15,2500,UPI,Delivered,4,Email
+ORD1714,C004,Amit Singh,Male,0,South,,03/25/26,Groceries,Rice,10,"1,499",10,-500,UPI,delivered,1,Email
+ORD1715,C232,Sneha Joshi,M,31,East,Pune,09/21/25,Electronics,Headphones,3,₹999,10,-500,Card,Delivered,3,Google Ads
+ORD1716,C234,Sneha Joshi,FEMALE,150,East,Jaipur,05/02/26,Electronic,Headphones,1,₹999,120,30000,Cash,delivered,,Facebook
+ORD1717,C098,Karan Mehta,Female,31,west,Jaipur,12/12/25,Groceries,Rice,3,₹999,120,30000,UPI,delivered,3,Email
+ORD1718,C099,Karan Mehta,male,31,North,Pune,"May 27,2025",Beauty,Face Wash,50,7999,-5,5000,Wallet,DELIVERED,5,
+ORD1719,C071,Vikram Das,Female,45,NORTH,Jaipur,"Mar 02,2025",Beauty,Face Wash,0,2500,10,2500,Wallet,Delivered,2,Google Ads
+ORD1720,C246,Neha Gupta ,Male,150,North,Lucknow,2025-01-15,Electrnics,Laptop,4,7999,10,999,Card,Cancelled,4,Email
+ORD1721,C114,Sneha Joshi,Female,60,north,Ahmedabad ,2026-01-02,Groceries,Rice,10,2500,5,2500,UPI,DELIVERED,1,Facebook
+ORD1722,C162,Priya Patel,FEMALE,-4,North,Bhopal,05/22/25,Electronic,Smartphone,3,7999,120,0,Wallet,DELIVERED,2,
+ORD1723,C224,Neha Gupta,FEMALE,45,South,,10/28/25,Electronics,Headphones,1,"1,499",10,999,Cash,delivered,,Email
+ORD1724,C018,Vikram Das,F,45,NORTH,Delhi,01/02/25,Fashon,T-Shirt,4,₹999,15,5000,Card,Cancelled,4,
+ORD1725,C216,Neha Gupta,M,150,West,Bhopal,"Mar 26,2026",Fashion,Jeans,0,4500 INR,10,12000,Card,Cancelled,4,Google Ads
+ORD1726,C084,Neha Gupta,FEMALE,0,north,Ahmedabad ,05/12/26,Electronic,Laptop,2,2500,-5,5000,Card,Delivered,3,Email
+ORD1727,C008,Riya Shah,M,,Nrth,Bhopal,18-12-2025,Electrnics,Smartphone,10,7999,-5,0,Wallet,DELIVERED,3,Google Ads
+ORD1728,C069,Vikram Das,FEMALE,45,south,Delhi,2025-05-14,Home,Mixer,10,4500 INR,-5,2500,Cash,Returned,2,
+ORD1729,C244,Rahul Sharma ,Female,25,south,Lucknow,2025-03-08,Electrnics,Headphones,4,₹999,120,30000,Wallet,Delivered,,Instagram
+ORD1730,,Neha Gupta,M,31,south,Lucknow,03/22/25,Groceries,Rice,0,7999,15,5000,upi,Cancelled,,Facebook
+ORD1731,C203,Vikram Das,Male,31,South,Jaipur,09/14/25,Electronics,Laptop,1,7999,5,0,upi,delivered,1,Google Ads
+ORD1732,C020,Priya Patel,F,0,North,Delhi,2026-03-18,Electronic,Smartphone,-1,"1,499",20%,-500,Wallet,Cancelled,2,Instagram
+ORD1733,C078,Riya Shah,Female,45,north,Jaipur,2025-09-20,Home,Chair,5,2500,-5,-500,Wallet,Returned,4,Google Ads
+ORD1734,C233,Neha Gupta,Female,21,West,Bhopal,"Sep 05,2025",Home,Chair,4,4500 INR,20%,2500,Wallet,Delivered,4,Facebook
+ORD1735,C165,Riya Shah,M,31,north, Mumbai,2025-09-02,Electronics,Smartphone,4,4500 INR,120,12000,upi,delivered,4,
+ORD1736,C016,Vikram Das,M,0,South,Lucknow,25-09-2025,Fashion,T-Shirt,3,4500 INR,,30000,upi,Delivered,3,
+ORD1737,C081,Neha Gupta,M,150,West, Mumbai,10/07/25,Home,Chair,5,"1,499",,0,Cash,Delivered,4,Facebook
+ORD1738,C223,Priya Patel ,Male,0,West,Ahmedabad ,04/12/25,Electronics,Laptop,50,₹999,10,-500,Wallet,Returned,2,
+ORD1739,C185,Riya Shah,F,-4,south,Ahmedabad ,"Aug 11,2025",Home,Mixer,1,2500,5,999,Card,Cancelled,,Facebook
+ORD1740,C238,Amit Singh,male,,West,Delhi,"Apr 25,2026",Beauty,Perfume,10,4500 INR,15,2500,Cash,delivered,2,Email
+ORD1741,C138,Vikram Das,M,25,North,,2025-12-22,Electronic,Laptop,5,"1,499",15,12000,upi,Delivered,3,
+ORD1742,C150,Riya Shah,M,0,South,Pune,05/26/25,Fashion,Shoes,1,"1,499",20%,0,Wallet,delivered,1,Facebook
+ORD1743,C085,Riya Shah,FEMALE,150,Nrth,Ahmedabad ,03/06/25,Fashon,T-Shirt,5,7999,5,0,upi,delivered,1,
+ORD1744,C230,Rahul Sharma,male,,West,Bhopal,2025-06-15,Electrnics,Laptop,3,4500 INR,0,-500,Cash,DELIVERED,3,
+ORD1745,C181,Vikram Das,M,60,west,Lucknow,02/01/26,Electronic,Laptop,50,4500 INR,-5,12000,UPI,Cancelled,2,Facebook
+ORD1746,C176,Priya Patel,F,0,south,Ahmedabad ,"Sep 08,2025",Fashon,Jeans,3,4500 INR,,0,Card,Returned,,Google Ads
+ORD1747,C239,Rahul Sharma ,male,150,south,Pune,11-07-2025,Home,Chair,50,"1,499",-5,0,Wallet,DELIVERED,3,Instagram
+ORD1748,C165,Vikram Das,Female,21,South,Jaipur,"Jan 18,2025",Beauty,Perfume,50,₹999,20%,-500,UPI,Cancelled,1,Email
+ORD1749,C008,Amit Singh,FEMALE,31,NORTH, Mumbai,"Jan 20,2025",Sports,Cricket Bat,3,4500 INR,5,5000,UPI,Delivered,4,Instagram
+ORD1750,C086,Karan Mehta,FEMALE,31,south,Delhi,2025-12-02,Beauty,Face Wash,50,2500,15,-500,Cash,Returned,,Instagram
+ORD1751,C114,Rahul Sharma,M,45,west,Bhopal,12-02-2025,Electronic,Laptop,50,"1,499",20%,999,UPI,DELIVERED,3,
+ORD1752,C023,Priya Patel,Male,31,north,Ahmedabad ,10/17/25,Beauty,Face Wash,0,4500 INR,5,2500,Wallet,Delivered,2,Instagram
+ORD1753,C079,Neha Gupta,FEMALE,31,South,Delhi,26-03-2026,Fashion,Jeans,0,4500 INR,5,5000,Card,delivered,3,Facebook
+ORD1754,C046,Riya Shah,M,150,South, Mumbai,29-03-2026,Beauty,Perfume,4,"1,499",20%,5000,Card,Cancelled,3,Google Ads
+ORD1755,C180,Sneha Joshi,M,60,Nrth,Lucknow,21-03-2025,Groceries,Cooking Oil,3,₹999,-5,-500,Wallet,Cancelled,,Google Ads
+ORD1756,C009,Priya Patel ,F,31,West,Ahmedabad ,"Aug 28,2025",Electronic,Headphones,4,2500,15,5000,Wallet,DELIVERED,3,
+ORD1757,C041,Sneha Joshi,Female,-4,south, Mumbai,2026-03-22,Home,Chair,0,₹999,120,999,Card,DELIVERED,2,Email
+ORD1758,C188,Sneha Joshi,Female,45,South,Lucknow,10/31/25,Groceries,Rice,1,4500 INR,,12000,Card,Returned,,Email
+ORD1759,C199,Riya Shah,F,0,North,Ahmedabad ,08/04/25,Fashon,T-Shirt,4,7999,5,12000,upi,DELIVERED,5,
+ORD1760,C249,Priya Patel,M,31,south,,2026-02-08,Fashion,Jeans,3,"1,499",120,5000,upi,Returned,1,Facebook
+ORD1761,C220,Neha Gupta,Female,25,Nrth,Ahmedabad ,05-04-2025,Fashion,T-Shirt,5,2500,5,-500,Wallet,DELIVERED,1,Email
+ORD1762,C234,Vikram Das,FEMALE,0,West,Pune,24-12-2025,Electrnics,Smartphone,2,4500 INR,-5,30000,UPI,Returned,2,Google Ads
+ORD1763,C137,Priya Patel,M,150,North,Pune,11/02/25,Electrnics,Smartphone,0,2500,-5,12000,upi,delivered,3,Google Ads
+ORD1764,C049,Rahul Sharma,male,60,East, Mumbai,03/12/25,Beauty,Face Wash,-1,₹999,15,2500,Cash,delivered,4,Facebook
+ORD1765,C046,Amit Singh ,Female,,north,,05/14/25,Fashon,Shoes,-1,4500 INR,0,30000,UPI,DELIVERED,,Instagram
+ORD1766,C176,Vikram Das,Male,150,East,Bhopal,10/22/25,Home,Chair,3,2500,10,30000,UPI,DELIVERED,4,Google Ads
+ORD1767,C183,Karan Mehta,F,-4,north,Ahmedabad ,02/04/26,Electronic,Headphones,10,7999,120,5000,Wallet,Returned,,Instagram
+ORD1768,C112,Rahul Sharma,Female,60,North, Mumbai,04/12/25,Electrnics,Laptop,0,7999,20%,30000,Cash,Returned,3,Instagram
+ORD1769,C139,Riya Shah,male,60,south,Bhopal,2026-01-28,Beauty,Perfume,-1,2500,20%,0,Cash,DELIVERED,3,Instagram
+ORD1770,C022,Priya Patel,male,31,West,Bhopal,08-05-2025,Electronic,Smartphone,1,7999,-5,2500,Card,Returned,,
+ORD1771,C084,Karan Mehta,Male,31,north,Bhopal,2025-01-21,Fashion,Jeans,50,7999,,12000,UPI,DELIVERED,,Google Ads
+ORD1772,C215,Sneha Joshi,Male,45,South,Jaipur,2026-01-05,Home,Mixer,1,"1,499",20%,12000,Wallet,Cancelled,2,Instagram
+ORD1773,C071,Rahul Sharma,F,0,NORTH,Jaipur,18-01-2026,Beauty,Perfume,4,4500 INR,20%,2500,UPI,Returned,2,Instagram
+ORD1774,C025,Neha Gupta ,male,21,south,Pune,"Nov 03,2025",Home,Chair,5,2500,,0,Wallet,DELIVERED,,
+ORD1775,C088,Karan Mehta,M,-4,West,Ahmedabad ,2025-09-01,Sports,Cricket Bat,0,7999,-5,5000,Cash,delivered,5,Facebook
+ORD1776,C144,Karan Mehta,Male,45,west,Lucknow,11/20/25,Home,Mixer,-1,₹999,5,2500,Card,DELIVERED,4,Email
+ORD1777,C107,Rahul Sharma,M,,West,Pune,10/17/25,Electronics,Laptop,3,7999,120,5000,Wallet,delivered,4,
+ORD1778,C046,Amit Singh,FEMALE,0,west,Bhopal,"Feb 26,2025",Electronic,Laptop,-1,"1,499",15,2500,upi,Returned,5,Google Ads
+ORD1779,C127,Vikram Das,M,150,NORTH,Ahmedabad ,04/26/25,Beauty,Perfume,2,2500,-5,5000,Card,Delivered,5,Google Ads
+ORD1780,C106,Neha Gupta,FEMALE,21,Nrth,Ahmedabad ,05/14/26,Sports,Football,2,4500 INR,-5,12000,Wallet,Cancelled,1,
+ORD1781,C176,Priya Patel,M,21,East,Pune,03/27/25,Home,Chair,0,7999,15,30000,upi,Returned,3,Facebook
+ORD1782,C229,Rahul Sharma,male,150,West,Pune,2025-05-31,Electrnics,Smartphone,4,2500,10,-500,Wallet,Returned,2,Facebook
+ORD1783,C002,Rahul Sharma ,FEMALE,0,west,,2025-08-25,Sports,Football,0,"1,499",15,30000,Cash,Delivered,4,Google Ads
+ORD1784,C075,Sneha Joshi,FEMALE,21,south,Bhopal,2025-09-04,Groceries,Rice,50,₹999,,-500,Wallet,Returned,4,Instagram
+ORD1785,C094,Sneha Joshi,FEMALE,-4,NORTH,Pune,05-01-2026,Electronic,Laptop,5,7999,5,30000,Cash,delivered,3,Instagram
+ORD1786,C088,Riya Shah,FEMALE,150,south,,"Jan 23,2026",Beauty,Face Wash,10,4500 INR,15,-500,Card,Cancelled,3,
+ORD1787,C226,Karan Mehta,F,-4,South,Jaipur,14-01-2025,Electronics,Laptop,3,7999,20%,-500,upi,Cancelled,,Google Ads
+ORD1788,C220,Sneha Joshi,M,45,North,Pune,"Mar 17,2025",Sports,Cricket Bat,5,"1,499",10,12000,Card,delivered,5,Instagram
+ORD1789,C249,Karan Mehta,FEMALE,31,west,Lucknow,02-09-2025,Fashon,Shoes,50,7999,-5,12000,Card,Returned,4,Facebook
+ORD1790,C088,Neha Gupta,M,45,Nrth,Ahmedabad ,2025-01-08,Groceries,Cooking Oil,3,4500 INR,-5,2500,Wallet,Delivered,,Facebook
+ORD1791,C190,Neha Gupta,M,21,East, Mumbai,07-03-2026,Beauty,Perfume,10,7999,0,2500,Wallet,Delivered,3,
+ORD1792,C205,Amit Singh ,FEMALE,45,Nrth,,"May 06,2025",Groceries,Rice,1,4500 INR,15,999,UPI,Cancelled,3,
+ORD1793,C016,Neha Gupta,male,45,West,,"Sep 25,2025",Fashon,T-Shirt,4,₹999,10,0,Wallet,Delivered,3,Instagram
+ORD1794,C026,Neha Gupta,F,150,South,Delhi,01-09-2025,Fashion,Shoes,2,4500 INR,5,12000,Cash,Delivered,,Email
+ORD1795,C154,Riya Shah,Female,31,south,,01/22/26,Fashion,Jeans,10,₹999,20%,12000,Card,DELIVERED,3,
+ORD1796,C029,Amit Singh,Female,21,south,,11/17/25,Fashion,Shoes,5,7999,20%,5000,upi,delivered,1,Email
+ORD1797,C196,Neha Gupta,male,60,west,Jaipur,2025-04-10,Fashon,T-Shirt,10,2500,10,2500,Wallet,Returned,1,Google Ads
+ORD1798,C202,Amit Singh,male,31,south,,04/09/25,Fashion,Jeans,3,2500,10,-500,Wallet,Returned,,Google Ads
+ORD1799,C086,Karan Mehta,FEMALE,-4,West,Jaipur,"Mar 16,2025",Fashion,Shoes,10,2500,120,5000,Wallet,Returned,4,Instagram
+ORD1800,C197,Riya Shah,Male,45,Nrth,Jaipur,05/15/26,Home,Chair,-1,2500,10,2500,Card,Delivered,3,Email
+ORD1801,C159,Vikram Das ,M,25,north,Pune,13-02-2026,Home,Mixer,50,7999,15,999,Card,Returned,,
+ORD1802,C016,Priya Patel,Male,-4,South,Lucknow,05/24/25,Sports,Football,-1,4500 INR,15,5000,Card,Delivered,4,Facebook
+ORD1803,,Neha Gupta,F,25,West,Pune,"Oct 29,2025",Electronic,Smartphone,-1,"1,499",10,2500,Wallet,Cancelled,,Google Ads
+ORD1804,C246,Karan Mehta,Female,45,NORTH,Lucknow,"Mar 22,2026",Groceries,Cooking Oil,1,"1,499",5,5000,upi,Returned,3,Google Ads
+ORD1805,C165,Sneha Joshi,Female,0,West,Delhi,2025-03-13,Fashion,Jeans,5,2500,0,30000,Wallet,Delivered,5,Google Ads
+ORD1806,C073,Karan Mehta,FEMALE,25,north, Mumbai,02/09/26,Electronics,Headphones,-1,₹999,120,12000,UPI,Cancelled,2,
+ORD1807,C197,Sneha Joshi,M,150,West,Ahmedabad ,2026-01-20,Electronic,Headphones,10,7999,15,-500,Card,Delivered,2,
+ORD1808,C002,Sneha Joshi,Male,21,Nrth,Lucknow,"Jul 25,2025",Beauty,Perfume,50,4500 INR,0,5000,upi,DELIVERED,2,
+ORD1809,C049,Amit Singh,male,60,NORTH, Mumbai,03-04-2026,Beauty,Perfume,4,7999,120,0,Wallet,Cancelled,1,Facebook
+ORD1810,C169,Neha Gupta ,male,60,NORTH,Bhopal,21-04-2026,Groceries,Cooking Oil,2,2500,120,2500,upi,delivered,3,Instagram
+ORD1811,C098,Rahul Sharma,Female,150,East,Pune,16-08-2025,Electrnics,Smartphone,2,4500 INR,0,999,Cash,Cancelled,1,Instagram
+ORD1812,C031,Vikram Das,FEMALE,-4,south,Bhopal,23-01-2026,Electrnics,Headphones,50,₹999,10,999,upi,Delivered,5,Google Ads
+ORD1813,C098,Sneha Joshi,Female,25,south,Lucknow,2025-01-09,Sports,Cricket Bat,50,₹999,,2500,UPI,Returned,,Google Ads
+ORD1814,C187,Karan Mehta,Male,31,Nrth,Ahmedabad ,"Jan 09,2025",Fashion,Jeans,2,4500 INR,,12000,UPI,delivered,5,Facebook
+ORD1815,C222,Riya Shah,M,0,NORTH,Bhopal,02-11-2025,Electrnics,Headphones,10,₹999,0,999,upi,Cancelled,2,Facebook
+ORD1816,C104,Karan Mehta,M,-4,North,Delhi,"Apr 15,2025",Beauty,Face Wash,3,₹999,,2500,UPI,Returned,1,Facebook
+ORD1817,C004,Karan Mehta,male,25,East, Mumbai,2025-03-22,Home,Chair,50,4500 INR,10,0,Cash,Returned,4,
+ORD1818,C033,Karan Mehta,FEMALE,,south, Mumbai,"Aug 29,2025",Sports,Football,1,2500,,5000,Cash,Cancelled,2,Facebook
+ORD1819,C191,Priya Patel ,FEMALE,0,South, Mumbai,2025-12-04,Fashion,Jeans,3,"1,499",15,999,upi,DELIVERED,2,Google Ads
+ORD1820,C084,Sneha Joshi,M,31,North,Bhopal,25-01-2026,Beauty,Perfume,50,7999,20%,-500,UPI,delivered,2,Instagram
+ORD1821,C003,Vikram Das,Female,-4,Nrth,Bhopal,"Jul 23,2025",Electrnics,Headphones,1,"1,499",10,5000,upi,Returned,5,Google Ads
+ORD1822,C066,Karan Mehta,Female,,West, Mumbai,22-06-2025,Groceries,Cooking Oil,2,2500,120,-500,Card,Cancelled,3,Instagram
+ORD1823,C250,Vikram Das,Male,25,west,Jaipur,18-02-2025,Beauty,Perfume,1,7999,10,999,Card,DELIVERED,4,Email
+ORD1824,C037,Neha Gupta,Male,45,south,Ahmedabad ,24-02-2026,Groceries,Rice,50,"1,499",-5,12000,Wallet,Cancelled,1,
+ORD1825,C175,Amit Singh,FEMALE,45,NORTH,Bhopal,2025-03-23,Beauty,Face Wash,50,"1,499",120,30000,upi,DELIVERED,1,Email
+ORD1826,C035,Riya Shah,Male,25,South,Jaipur,"Aug 28,2025",Fashon,Shoes,50,4500 INR,,999,Wallet,Cancelled,1,Instagram
+ORD1827,C101,Amit Singh,FEMALE,0,East,Pune,27-01-2026,Home,Chair,3,4500 INR,10,999,Card,Delivered,2,Google Ads
+ORD1828,C037,Riya Shah ,M,21,north,Jaipur,04/16/25,Electrnics,Smartphone,2,7999,10,12000,UPI,Cancelled,4,Facebook
+ORD1829,C226,Karan Mehta,M,21,East,Jaipur,2025-03-20,Sports,Cricket Bat,2,7999,,0,Cash,Returned,5,Facebook
+ORD1830,C062,Vikram Das,FEMALE,0,East,Delhi,"Feb 15,2025",Sports,Cricket Bat,4,7999,5,-500,UPI,DELIVERED,,Google Ads
+ORD1831,C092,Priya Patel,Male,25,West,Pune,"Dec 08,2025",Fashon,Jeans,50,2500,-5,12000,Cash,delivered,5,Email
+ORD1832,C011,Priya Patel,F,25,north, Mumbai,11/07/25,Fashon,T-Shirt,10,7999,-5,30000,upi,DELIVERED,5,
+ORD1833,C147,Rahul Sharma,Female,0,North,Pune,03/13/26,Home,Mixer,1,2500,,12000,upi,Delivered,,Google Ads
+ORD1834,C092,Karan Mehta,M,45,South,,"Mar 11,2026",Electronic,Smartphone,-1,₹999,,30000,UPI,DELIVERED,4,Google Ads
+ORD1835,C193,Karan Mehta,male,150,north,Lucknow,01/15/26,Electrnics,Laptop,50,7999,120,2500,Wallet,Cancelled,,Facebook
+ORD1836,C164,Amit Singh,Female,45,South,,06/10/25,Beauty,Perfume,2,₹999,-5,2500,Card,Returned,3,Facebook
+ORD1837,C233,Riya Shah ,F,,NORTH,Bhopal,"Oct 25,2025",Electrnics,Smartphone,1,₹999,15,12000,UPI,delivered,1,Instagram
+ORD1838,C236,Sneha Joshi,Male,60,north,Lucknow,23-07-2025,Home,Mixer,3,2500,120,999,Cash,Delivered,2,
+ORD1839,C063,Neha Gupta,Female,45,NORTH,Delhi,25-04-2025,Electrnics,Headphones,5,₹999,,2500,upi,Delivered,5,Email
+ORD1840,C218,Sneha Joshi,FEMALE,0,South,Lucknow,31-07-2025,Sports,Cricket Bat,50,7999,15,30000,Card,Returned,3,Google Ads
+ORD1841,C083,Neha Gupta,F,31,north,,06-05-2026,Fashion,Shoes,50,2500,5,12000,Card,Delivered,5,Facebook
+ORD1842,C128,Sneha Joshi,Male,31,North,,08/24/25,Beauty,Face Wash,10,2500,0,12000,UPI,DELIVERED,4,Facebook
+ORD1843,C243,Rahul Sharma,FEMALE,150,East,Ahmedabad ,"Oct 19,2025",Electronic,Headphones,0,₹999,20%,5000,upi,Returned,3,
+ORD1844,C221,Rahul Sharma,F,21,south, Mumbai,"Mar 15,2025",Fashon,Shoes,4,7999,-5,30000,UPI,Cancelled,1,
+ORD1845,C008,Vikram Das,FEMALE,25,south, Mumbai,04-03-2026,Home,Chair,4,"1,499",10,0,Cash,Cancelled,,Email
+ORD1846,C080,Karan Mehta ,male,0,South,,2025-04-04,Home,Mixer,10,"1,499",120,0,upi,DELIVERED,4,Facebook
+ORD1847,C135,Riya Shah,Male,21,west,Delhi,2026-01-20,Fashion,Shoes,2,2500,,-500,Card,Delivered,2,Instagram
+ORD1848,C205,Karan Mehta,Male,31,Nrth,,2025-06-06,Groceries,Rice,1,2500,-5,999,Wallet,delivered,3,Instagram
+ORD1849,C181,Amit Singh,F,31,West,Delhi,04/02/26,Electrnics,Headphones,0,7999,10,12000,UPI,Cancelled,1,Google Ads
+ORD1850,C128,Neha Gupta,F,31,south,,2026-04-06,Fashon,T-Shirt,0,"1,499",10,-500,Wallet,Returned,4,Instagram
+ORD1851,C246,Vikram Das,male,0,North,Lucknow,14-03-2025,Groceries,Rice,0,"1,499",120,0,Cash,Cancelled,1,
+ORD1852,C073,Karan Mehta,male,150,Nrth,Jaipur,23-01-2026,Electronic,Headphones,0,7999,-5,-500,Cash,Returned,4,Email
+ORD1853,C157,Sneha Joshi,M,150,South,Delhi,06/14/25,Electronic,Smartphone,1,4500 INR,5,12000,UPI,delivered,1,Google Ads
+ORD1854,C099,Neha Gupta,M,,North,Bhopal,"Jan 25,2025",Groceries,Rice,0,₹999,0,-500,Wallet,Cancelled,2,
+ORD1855,C229,Neha Gupta ,FEMALE,-4,north,Pune,02-05-2026,Beauty,Face Wash,4,₹999,,5000,upi,Cancelled,,
+ORD1856,C002,Neha Gupta,FEMALE,-4,NORTH,Bhopal,"Apr 19,2026",Electronics,Laptop,-1,"1,499",5,30000,upi,DELIVERED,4,Instagram
+ORD1857,C175,Riya Shah,male,60,East,Delhi,03/28/26,Electrnics,Laptop,4,7999,20%,5000,Cash,Returned,3,Facebook
+ORD1858,C033,Neha Gupta,Male,25,north,Ahmedabad ,12/23/25,Sports,Cricket Bat,1,4500 INR,0,30000,Cash,Delivered,2,
+ORD1859,C073,Riya Shah,Male,25,East,Pune,"Oct 02,2025",Beauty,Face Wash,5,4500 INR,20%,0,Wallet,Returned,2,Facebook
+ORD1860,C010,Sneha Joshi,male,25,north,Pune,27-02-2025,Groceries,Rice,10,4500 INR,5,5000,Wallet,DELIVERED,4,Facebook
+ORD1861,C012,Rahul Sharma,male,-4,South,Ahmedabad ,"Jan 07,2026",Sports,Football,50,"1,499",15,2500,Cash,delivered,,Instagram
+ORD1862,C161,Neha Gupta,M,150,North,,26-04-2025,Home,Mixer,3,2500,5,0,upi,Cancelled,5,Google Ads
+ORD1863,C176,Priya Patel,Female,,west,Delhi,2025-01-30,Groceries,Rice,3,7999,120,12000,upi,DELIVERED,3,Instagram
+ORD1864,C209,Sneha Joshi ,F,25,Nrth,Delhi,2025-01-02,Electrnics,Laptop,4,₹999,-5,12000,Wallet,Delivered,1,Email
+ORD1865,C157,Riya Shah,M,150,West,Ahmedabad ,12/16/25,Home,Mixer,-1,4500 INR,15,5000,Wallet,DELIVERED,2,Facebook
+ORD1866,C095,Rahul Sharma,Female,60,NORTH,Delhi,28-03-2026,Fashon,Jeans,3,4500 INR,20%,5000,Cash,Cancelled,2,Email
+ORD1867,C118,Vikram Das,Female,0,West,Lucknow,08/04/25,Electrnics,Headphones,0,"1,499",-5,2500,Card,Returned,2,
+ORD1868,C231,Vikram Das,F,0,south,Jaipur,"May 01,2026",Fashion,T-Shirt,4,"1,499",15,999,Cash,delivered,4,Instagram
+ORD1869,C056,Karan Mehta,F,31,East,Bhopal,27-01-2025,Groceries,Cooking Oil,5,7999,-5,999,Cash,Delivered,,Facebook
+ORD1870,C148,Neha Gupta,male,0,south,,11/25/25,Home,Chair,5,7999,10,999,upi,Returned,3,
+ORD1871,C236,Rahul Sharma,M,25,south,Lucknow,2025-01-11,Groceries,Rice,2,₹999,5,999,upi,delivered,3,Instagram
+ORD1872,C075,Riya Shah,Male,,NORTH,Ahmedabad ,27-12-2025,Beauty,Perfume,10,4500 INR,120,999,Cash,Delivered,5,
+ORD1873,C177,Neha Gupta ,Male,31,West, Mumbai,"Dec 25,2025",Home,Chair,50,7999,,30000,UPI,delivered,4,Email
+ORD1874,C150,Amit Singh,Female,21,West,Lucknow,04/22/26,Home,Mixer,3,₹999,120,2500,UPI,DELIVERED,1,Facebook
+ORD1875,C247,Karan Mehta,M,25,south,,26-02-2025,Electrnics,Headphones,5,4500 INR,10,0,Wallet,Cancelled,4,Facebook
+ORD1876,,Vikram Das,M,31,North,Pune,2025-09-24,Beauty,Perfume,4,7999,20%,-500,Card,DELIVERED,4,Email
+ORD1877,C034,Rahul Sharma,FEMALE,21,South,Bhopal,2025-06-20,Beauty,Face Wash,5,4500 INR,5,999,Cash,Returned,4,Instagram
+ORD1878,C105,Karan Mehta,male,-4,South,Pune,02/16/26,Fashon,Jeans,-1,2500,120,5000,Card,DELIVERED,1,Email
+ORD1879,C207,Priya Patel,male,25,NORTH,Lucknow,12-01-2025,Electronic,Headphones,0,7999,5,0,upi,Cancelled,2,Instagram
+ORD1880,C162,Karan Mehta,FEMALE,25,north,Delhi,03/21/25,Electronic,Laptop,1,2500,5,-500,upi,delivered,,Instagram
+ORD1881,C054,Rahul Sharma,FEMALE,25,East,Lucknow,10-02-2026,Electrnics,Laptop,2,₹999,-5,-500,Wallet,delivered,4,Facebook
+ORD1882,C130,Rahul Sharma ,Male,31,Nrth,Jaipur,15-08-2025,Sports,Football,10,2500,0,999,Wallet,Cancelled,2,Instagram
+ORD1883,C163,Riya Shah,F,0,west,Jaipur,03/25/25,Electronic,Laptop,3,2500,15,999,Cash,DELIVERED,3,Facebook
+ORD1884,C017,Vikram Das,M,21,East, Mumbai,2025-02-03,Groceries,Rice,5,2500,10,-500,Cash,Delivered,,Instagram
+ORD1885,C116,Karan Mehta,FEMALE,150,south,,"Jan 08,2026",Beauty,Perfume,2,7999,20%,2500,Cash,DELIVERED,5,Facebook
+ORD1886,C226,Vikram Das,M,0,West,,07/29/25,Fashion,Jeans,3,₹999,120,5000,upi,delivered,,Email
+ORD1887,C103,Karan Mehta,Male,0,NORTH,Ahmedabad ,22-03-2026,Home,Chair,3,2500,-5,12000,upi,delivered,1,Instagram
+ORD1888,C128,Sneha Joshi,male,60,west,Jaipur,2025-04-12,Home,Mixer,3,2500,120,999,upi,Returned,5,Email
+ORD1889,C018,Karan Mehta,FEMALE,150,South,Ahmedabad ,2025-06-30,Home,Mixer,3,4500 INR,0,999,Wallet,Returned,2,Email
+ORD1890,C176,Sneha Joshi,F,25,NORTH,Jaipur,"Nov 19,2025",Sports,Football,5,"1,499",120,2500,Card,delivered,3,
+ORD1891,C054,Karan Mehta ,FEMALE,45,south,,02-08-2025,Sports,Football,1,4500 INR,120,30000,Card,Cancelled,3,
+ORD1892,C209,Neha Gupta,Female,150,North,Lucknow,29-12-2025,Beauty,Face Wash,3,2500,15,12000,UPI,Returned,2,
+ORD1893,C018,Vikram Das,Female,45,South,Ahmedabad ,"Nov 05,2025",Beauty,Face Wash,50,4500 INR,,2500,UPI,Returned,2,Facebook
+ORD1894,C201,Riya Shah,M,150,south,Pune,15-10-2025,Electronics,Smartphone,0,7999,,30000,upi,Cancelled,5,Instagram
+ORD1895,C109,Rahul Sharma,M,60,Nrth,Ahmedabad ,05/08/25,Fashon,Jeans,1,"1,499",20%,2500,UPI,Delivered,,Email
+ORD1896,C143,Amit Singh,F,150,south, Mumbai,11/17/25,Electronic,Smartphone,10,"1,499",,2500,Cash,DELIVERED,2,
+ORD1897,C032,Rahul Sharma,M,,West,Lucknow,2025-06-15,Sports,Cricket Bat,3,7999,10,999,Card,Returned,5,Instagram
+ORD1898,C165,Riya Shah,M,21,west,Delhi,2025-11-10,Home,Mixer,-1,"1,499",120,-500,upi,Returned,1,Instagram
+ORD1899,C024,Karan Mehta,M,-4,north,Bhopal,27-04-2026,Electrnics,Laptop,2,7999,10,2500,UPI,Returned,4,
+ORD1900,C209,Neha Gupta ,Female,31,north,Jaipur,2025-10-08,Electronics,Headphones,-1,4500 INR,10,999,upi,Delivered,,
+ORD1901,C195,Neha Gupta,male,31,west,Lucknow,22-01-2025,Electronics,Laptop,4,4500 INR,0,2500,Cash,Returned,1,
+ORD1902,C151,Rahul Sharma,male,45,West,Delhi,21-01-2025,Fashon,Shoes,1,4500 INR,5,2500,UPI,Cancelled,3,
+ORD1903,C069,Karan Mehta,F,0,NORTH,Pune,"Apr 14,2026",Electrnics,Smartphone,4,"1,499",0,30000,Wallet,DELIVERED,3,Facebook
+ORD1904,C115,Sneha Joshi,male,31,north,Delhi,2025-08-20,Beauty,Perfume,-1,₹999,20%,5000,UPI,delivered,2,
+ORD1905,C014,Neha Gupta,F,60,Nrth,Delhi,07/04/25,Fashon,Jeans,4,7999,20%,2500,UPI,delivered,2,Google Ads
+ORD1906,C236,Vikram Das,Female,,South,Pune,20-07-2025,Fashion,Shoes,-1,2500,,0,Wallet,Delivered,1,Instagram
+ORD1907,C187,Amit Singh,Male,21,south,Pune,08/16/25,Electronics,Laptop,5,₹999,20%,-500,upi,Returned,,Google Ads
+ORD1908,C231,Priya Patel,M,31,South,,2026-01-30,Electronic,Smartphone,-1,₹999,20%,30000,upi,Delivered,,Instagram
+ORD1909,C117,Riya Shah ,M,21,West, Mumbai,07-01-2026,Sports,Football,1,₹999,5,-500,upi,delivered,1,Email
+ORD1910,C106,Amit Singh,Male,21,north,Jaipur,03/02/26,Home,Chair,1,4500 INR,-5,-500,Card,Returned,2,Google Ads
+ORD1911,C208,Rahul Sharma,FEMALE,21,East,,12/20/25,Electronics,Headphones,5,"1,499",15,30000,upi,Delivered,3,Google Ads
+ORD1912,C096,Karan Mehta,FEMALE,,west,Ahmedabad ,06-10-2025,Electronic,Headphones,0,4500 INR,,2500,Card,Returned,2,
+ORD1913,C173,Sneha Joshi,M,0,north,Jaipur,03/17/25,Home,Mixer,10,2500,20%,999,Card,DELIVERED,,Email
+ORD1914,C139,Amit Singh,F,31,Nrth,Bhopal,"Nov 03,2025",Sports,Football,1,2500,10,0,Cash,Delivered,5,
+ORD1915,C190,Neha Gupta,FEMALE,-4,West, Mumbai,11-05-2025,Electronics,Headphones,2,7999,0,2500,Card,Cancelled,4,
+ORD1916,C040,Neha Gupta,FEMALE,21,west, Mumbai,04/26/25,Home,Chair,0,4500 INR,5,5000,upi,Delivered,,Google Ads
+ORD1917,C007,Rahul Sharma,Male,60,north,Pune,03-05-2026,Fashion,Shoes,5,"1,499",5,999,UPI,Delivered,3,Email
+ORD1918,C088,Sneha Joshi ,M,45,South,Bhopal,"Dec 24,2025",Electronic,Smartphone,0,4500 INR,0,12000,Wallet,Returned,,
+ORD1919,C008,Riya Shah,FEMALE,150,East, Mumbai,"Jun 13,2025",Electronics,Headphones,10,₹999,,5000,Wallet,Cancelled,3,Email
+ORD1920,C140,Priya Patel,Male,45,north,,"Sep 01,2025",Electronics,Smartphone,1,4500 INR,5,5000,Card,delivered,5,Email
+ORD1921,C025,Rahul Sharma,FEMALE,31,North,,04/21/25,Electronics,Smartphone,5,7999,,0,Wallet,delivered,4,Google Ads
+ORD1922,C045,Vikram Das,M,31,North,Jaipur,12/24/25,Home,Chair,5,7999,5,12000,Card,Returned,1,Facebook
+ORD1923,C199,Amit Singh,Female,21,South,Ahmedabad ,01/03/25,Electronic,Laptop,10,4500 INR,15,999,Card,Cancelled,4,Facebook
+ORD1924,C113,Vikram Das,M,0,North,Lucknow,2025-03-09,Sports,Football,2,"1,499",10,-500,Wallet,Delivered,4,Email
+ORD1925,C023,Riya Shah,FEMALE,-4,West,Bhopal,2025-02-04,Electronics,Smartphone,-1,7999,-5,12000,upi,delivered,1,Instagram
+ORD1926,C143,Riya Shah,Female,25,NORTH,Bhopal,"Dec 04,2025",Electrnics,Laptop,3,"1,499",,0,Wallet,Delivered,2,Facebook
+ORD1927,C131,Rahul Sharma ,Male,,South,Delhi,2025-07-10,Electrnics,Smartphone,3,4500 INR,0,2500,upi,DELIVERED,2,Email
+ORD1928,C045,Sneha Joshi,F,,north,Ahmedabad ,2025-04-20,Fashion,T-Shirt,10,4500 INR,,-500,upi,Cancelled,2,Instagram
+ORD1929,C241,Neha Gupta,M,0,North,Bhopal,"Mar 06,2026",Sports,Football,3,"1,499",-5,0,Card,Returned,1,Facebook
+ORD1930,C123,Sneha Joshi,FEMALE,31,Nrth,Jaipur,19-01-2026,Beauty,Perfume,10,7999,15,5000,UPI,Returned,5,Instagram
+ORD1931,C095,Riya Shah,Female,60,West,Lucknow,2026-01-31,Home,Chair,50,₹999,10,2500,Wallet,Cancelled,3,Google Ads
+ORD1932,C024,Vikram Das,M,,west, Mumbai,"Aug 29,2025",Sports,Cricket Bat,-1,7999,10,2500,Card,DELIVERED,3,
+ORD1933,C090,Riya Shah,male,-4,west,Bhopal,17-10-2025,Groceries,Rice,0,2500,15,2500,Card,Cancelled,4,Facebook
+ORD1934,C053,Vikram Das,F,,NORTH, Mumbai,"Dec 31,2025",Electrnics,Headphones,5,"1,499",120,-500,Card,delivered,2,
+ORD1935,C184,Riya Shah,F,150,west,Lucknow,07/20/25,Beauty,Face Wash,10,2500,15,999,Card,Cancelled,1,Google Ads
+ORD1936,C208,Riya Shah ,Female,150,west,Jaipur,04-02-2025,Electronic,Smartphone,50,4500 INR,0,12000,Wallet,Returned,2,Google Ads
+ORD1937,C100,Karan Mehta,Male,31,NORTH, Mumbai,09/01/25,Electronics,Smartphone,10,7999,5,2500,UPI,Delivered,1,Google Ads
+ORD1938,C237,Sneha Joshi,male,21,North,Delhi,2026-02-06,Electronic,Headphones,50,2500,10,0,Card,Cancelled,,Google Ads
+ORD1939,C238,Karan Mehta,male,31,North,Lucknow,"Nov 13,2025",Fashon,Shoes,4,"1,499",15,30000,upi,delivered,4,Facebook
+ORD1940,C032,Priya Patel,male,0,Nrth,Pune,02/19/26,Groceries,Rice,3,₹999,20%,5000,Wallet,delivered,2,Facebook
+ORD1941,C115,Neha Gupta,male,25,north,Bhopal,08/11/25,Fashon,T-Shirt,1,"1,499",20%,-500,Cash,Returned,2,Email
+ORD1942,C112,Karan Mehta,M,21,West,Bhopal,03/28/26,Home,Chair,50,2500,15,30000,Cash,Cancelled,2,Google Ads
+ORD1943,C054,Neha Gupta,M,-4,East,Jaipur,03/28/25,Electrnics,Headphones,2,7999,-5,999,Card,delivered,4,
+ORD1944,C100,Karan Mehta,M,0,North,,2026-01-01,Sports,Football,4,₹999,,5000,Cash,Returned,1,Email
+ORD1945,C123,Amit Singh ,male,45,west,Pune,"Apr 12,2026",Fashon,Shoes,4,2500,120,30000,UPI,Returned,3,Instagram
+ORD1946,C135,Riya Shah,Female,31,South,Ahmedabad ,2025-05-09,Fashion,T-Shirt,3,₹999,0,30000,Cash,DELIVERED,2,Facebook
+ORD1947,C159,Rahul Sharma,F,31,South,,2025-04-29,Home,Mixer,3,7999,5,5000,upi,delivered,1,Facebook
+ORD1948,C200,Vikram Das,F,-4,NORTH,Ahmedabad ,2025-10-01,Electronic,Laptop,2,2500,10,12000,upi,delivered,1,Google Ads
+ORD1949,,Amit Singh,Male,150,NORTH,Ahmedabad ,21-07-2025,Electrnics,Smartphone,50,₹999,0,999,Wallet,DELIVERED,5,Google Ads
+ORD1950,C042,Rahul Sharma,Male,0,NORTH,Delhi,01-01-2026,Sports,Football,10,"1,499",5,2500,Cash,Cancelled,4,Email
+ORD1951,C193,Riya Shah,F,0,NORTH,,02/07/26,Groceries,Cooking Oil,50,4500 INR,120,999,UPI,delivered,1,
+ORD1952,C077,Karan Mehta,Male,-4,West,Pune,07/15/25,Beauty,Perfume,2,7999,-5,30000,UPI,delivered,4,Facebook
+ORD1953,C231,Neha Gupta,Female,60,West,Bhopal,2025-03-14,Sports,Football,5,4500 INR,15,5000,Cash,DELIVERED,2,Email
+ORD1954,C076,Karan Mehta ,Male,-4,West,Bhopal,2026-04-05,Electrnics,Smartphone,1,"1,499",10,-500,Cash,Delivered,5,Google Ads
+ORD1955,C050,Riya Shah,F,31,North, Mumbai,"Jun 30,2025",Beauty,Perfume,1,4500 INR,5,999,Wallet,DELIVERED,1,Instagram
+ORD1956,C086,Vikram Das,M,-4,South,Lucknow,08/18/25,Groceries,Rice,50,2500,0,0,Wallet,Cancelled,1,Email
+ORD1957,C239,Sneha Joshi,M,150,South,Ahmedabad ,11-05-2026,Sports,Cricket Bat,50,₹999,5,999,upi,Delivered,5,Email
+ORD1958,C245,Amit Singh,male,0,Nrth,Bhopal,2025-06-05,Fashon,Shoes,4,₹999,0,30000,upi,Returned,5,
+ORD1959,C068,Vikram Das,Male,45,West,Ahmedabad ,2026-03-16,Fashon,T-Shirt,1,₹999,10,-500,Cash,Delivered,1,Email
+ORD1960,C135,Amit Singh,FEMALE,,South,Pune,"Nov 20,2025",Beauty,Perfume,10,2500,120,999,UPI,Returned,4,Google Ads
+ORD1961,C206,Riya Shah,Male,31,west,Pune,"May 03,2026",Beauty,Perfume,10,4500 INR,0,30000,upi,delivered,4,Facebook
+ORD1962,C108,Karan Mehta,M,25,Nrth,Ahmedabad ,07/31/25,Electronic,Headphones,50,7999,120,12000,Cash,Delivered,3,Instagram
+ORD1963,C086,Karan Mehta ,Male,60,Nrth,,2025-08-31,Home,Mixer,-1,"1,499",-5,5000,Cash,Cancelled,2,Email
+ORD1964,C154,Karan Mehta,F,0,north, Mumbai,22-06-2025,Home,Chair,5,"1,499",10,0,UPI,Delivered,2,
+ORD1965,C046,Rahul Sharma,male,60,south,Lucknow,01/02/25,Home,Mixer,2,"1,499",0,-500,Wallet,Delivered,1,Facebook
+ORD1966,C211,Neha Gupta,male,0,West, Mumbai,2025-01-21,Fashon,Shoes,2,₹999,5,2500,Wallet,DELIVERED,5,
+ORD1967,C041,Priya Patel,Female,45,South,Delhi,"Aug 25,2025",Electronic,Headphones,5,"1,499",5,5000,Card,delivered,,Email
+ORD1968,C108,Neha Gupta,M,-4,Nrth,Pune,12/01/25,Sports,Cricket Bat,50,2500,20%,5000,upi,delivered,1,Instagram
+ORD1969,C039,Priya Patel,M,-4,south,Pune,18-08-2025,Electronics,Headphones,2,"1,499",5,-500,Cash,Returned,4,Instagram
+ORD1970,C101,Neha Gupta,M,25,North,Delhi,06-07-2025,Groceries,Cooking Oil,4,4500 INR,0,30000,Card,Returned,2,Email
+ORD1971,C191,Sneha Joshi,FEMALE,-4,NORTH,Delhi,"Feb 22,2026",Sports,Cricket Bat,0,4500 INR,10,30000,upi,DELIVERED,4,Instagram
+ORD1972,C246,Riya Shah ,male,31,East,Delhi,05/03/25,Sports,Cricket Bat,3,₹999,10,30000,UPI,DELIVERED,,Google Ads
+ORD1973,C055,Amit Singh,M,,South,Bhopal,31-01-2026,Beauty,Perfume,1,₹999,,12000,Wallet,Cancelled,5,Facebook
+ORD1974,C012,Riya Shah,M,21,East, Mumbai,10/03/25,Home,Chair,10,7999,20%,5000,Cash,Returned,5,
+ORD1975,C210,Neha Gupta,FEMALE,60,East,Jaipur,2025-06-03,Fashion,Shoes,4,4500 INR,20%,0,Wallet,delivered,1,Facebook
+ORD1976,C206,Riya Shah,F,,East,Delhi,2025-01-25,Sports,Football,-1,₹999,-5,12000,Card,Cancelled,,Instagram
+ORD1977,C219,Neha Gupta,Female,,south,Ahmedabad ,2026-02-04,Sports,Football,50,7999,20%,12000,upi,Delivered,,Email
+ORD1978,C239,Riya Shah,male,60,South,Bhopal,20-02-2025,Electronic,Smartphone,4,4500 INR,0,999,Cash,delivered,,Facebook
+ORD1979,C224,Priya Patel,Male,45,north,Jaipur,09-02-2025,Beauty,Face Wash,5,2500,5,999,UPI,Returned,3,Instagram
+ORD1980,C202,Priya Patel,M,25,south,Ahmedabad ,"Dec 09,2025",Groceries,Cooking Oil,50,₹999,,5000,upi,Cancelled,3,Instagram
+ORD1981,C123,Karan Mehta ,Male,-4,East,Bhopal,24-03-2025,Electronic,Laptop,3,"1,499",120,0,Wallet,Returned,2,Facebook
+ORD1982,C214,Vikram Das,F,150,East,Lucknow,15-05-2026,Fashion,Jeans,10,7999,5,-500,Card,delivered,1,Instagram
+ORD1983,C167,Karan Mehta,Female,21,south,,"Jan 09,2025",Sports,Football,1,7999,120,0,upi,Delivered,5,
+ORD1984,C031,Rahul Sharma,FEMALE,-4,Nrth,Jaipur,"Oct 11,2025",Groceries,Rice,3,4500 INR,,12000,Cash,DELIVERED,1,Instagram
+ORD1985,C088,Sneha Joshi,Male,,south, Mumbai,"Mar 20,2025",Electronics,Smartphone,3,2500,-5,5000,Card,DELIVERED,4,Instagram
+ORD1986,C239,Priya Patel,M,25,north,Jaipur,22-03-2026,Electronics,Smartphone,0,"1,499",5,30000,Card,DELIVERED,1,Facebook
+ORD1987,C216,Priya Patel,FEMALE,,west,Jaipur,"May 22,2025",Fashion,Jeans,2,"1,499",0,12000,Card,Delivered,4,Instagram
+ORD1988,C036,Priya Patel,Male,21,north,,2026-01-15,Fashon,Shoes,2,2500,20%,0,Cash,DELIVERED,4,
+ORD1989,C044,Amit Singh,FEMALE,25,North,,"Feb 11,2025",Electronic,Smartphone,3,7999,15,999,upi,delivered,,
+ORD1990,C127,Neha Gupta ,Male,0,Nrth,Bhopal,23-10-2025,Fashion,Shoes,1,7999,20%,999,Wallet,DELIVERED,3,Facebook
+ORD1991,C181,Sneha Joshi,M,150,North, Mumbai,2025-11-12,Home,Mixer,5,2500,15,5000,Wallet,delivered,,Google Ads
+ORD1992,C034,Rahul Sharma,male,45,North, Mumbai,11-05-2026,Electrnics,Headphones,3,7999,5,-500,Cash,delivered,2,Google Ads
+ORD1993,C106,Priya Patel,M,45,West,Ahmedabad ,2026-03-01,Electronic,Headphones,1,"1,499",5,999,UPI,DELIVERED,3,Email
+ORD1994,C091,Neha Gupta,FEMALE,45,West,,04/16/25,Home,Mixer,10,"1,499",10,2500,Cash,Delivered,3,Instagram
+ORD1995,C135,Riya Shah,male,0,north,Jaipur,01/19/26,Home,Mixer,3,₹999,0,999,Card,DELIVERED,2,Email
+ORD1996,C165,Neha Gupta,Female,45,South,,"Jun 28,2025",Electronics,Smartphone,50,₹999,,5000,Card,delivered,4,Facebook
+ORD1997,C243,Amit Singh,Male,60,south,Jaipur,16-07-2025,Sports,Football,1,"1,499",,-500,UPI,DELIVERED,,
+ORD1998,C062,Riya Shah,M,45,west,Ahmedabad ,2025-10-18,Fashon,Jeans,-1,₹999,5,-500,Cash,Cancelled,1,Facebook
+ORD1999,C050,Amit Singh ,Male,60,East,Jaipur,01/01/25,Electronics,Smartphone,50,4500 INR,120,-500,Card,Cancelled,2,Email
